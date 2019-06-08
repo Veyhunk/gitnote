@@ -1,1 +1,1279 @@
-{"root":{"data":{"id":"buo65ggf1ns0","created":1559978288728,"text":"启示录","progress":null,"note":"打造用户喜爱的产品\n","expandState":"expand"},"children":[{"data":{"id":"buo677c3n7s0","created":1559978425604,"text":"笔记","expandState":"expand"},"children":[{"data":{"id":"buo6kodtbuo0","created":1559979481447,"text":"产品的特性","expandState":"expand"},"children":[{"data":{"id":"buo6mgqfpu80","created":1559979621524,"text":"有价值","expandState":"expand"},"children":[{"data":{"id":"buo6qawci740","created":1559979922278,"text":"市场价值","expandState":"expand"},"children":[]}]},{"data":{"id":"buo6lulpxg80","created":1559979573350,"text":"可用的","expandState":"expand"},"children":[]},{"data":{"id":"buo6lo0haqo0","created":1559979559005,"text":"可行的","expandState":"expand"},"children":[]},{"data":{"id":"buo6lzmkvnk0","created":1559979584286,"text":"可比性","expandState":"expand"},"children":[]},{"data":{"id":"buo6p5cp58g0","created":1559979831842,"text":"具有公共物品的性质","expandState":"expand"},"children":[]},{"data":{"id":"buo6or8f5ts0","created":1559979801108,"text":"具有经验产品的性质","expandState":"expand"},"children":[{"data":{"id":"buo6krudnhc0","created":1559979488979,"text":"可复制","expandState":"expand"},"children":[]},{"data":{"id":"buo6mc7yoj40","created":1559979611700,"text":"稳定性","expandState":"expand"},"children":[]},{"data":{"id":"buo6me2qfw80","created":1559979615738,"text":"廉价","expandState":"expand"},"children":[]}]},{"data":{"id":"buo8x1kal3s0","created":1559986092727,"text":"好的产品","expandState":"expand"},"children":[{"data":{"id":"buo6mkvk1k00","created":1559979630541,"text":"有生命的","expandState":"expand"},"children":[]},{"data":{"id":"buo6miewy5s0","created":1559979625181,"text":"有创意的","expandState":"expand"},"children":[]},{"data":{"id":"buo9hwx30qw0","created":1559987728264,"text":"舒适的","expandState":"expand"},"children":[]},{"data":{"id":"buo6mowu12g0","created":1559979639326,"text":"触及用户内心的","expandState":"expand"},"children":[]}]}]},{"data":{"id":"buo74yxl2hs0","created":1559981071694,"text":"本书主题","expandState":"expand"},"children":[{"data":{"id":"buo75lj81hk0","created":1559981120891,"text":"核心标准","expandState":"expand"},"children":[{"data":{"id":"buo75otr8m80","created":1559981128059,"text":"鼓励思考。与工作密切相关。切实可行。","expandState":"expand"},"children":[]}]}]},{"data":{"id":"buo76rvnpfk0","created":1559981213068,"text":"好产品的规律","note":"产品经理的任务是探索产品的价值，可用性，可行性。\n探索或者定义产品需要产品经理，交互设计师，软件架构师通力合作。\n开发人员不擅长用户体验设计，因为开发人员的脑子里想的是实现模型，而用户看重的是产品的概念模型。\n用户体验设计就是交互设计，视觉设计。对硬件设备来说是工业设计。\n功能（产品需求）和用户体验设计密不可分。\n产品创意必须尽早地，反复地接受目标用户的试用，以便获得有效的用户体验。\n为了验证产品的价值和可行性，必须尽早地，为了验证产品的价值和可行性，必须尽早地反复的请目标用户，测试产品创意。\n采用高保真的产品原型是全体团队成员了解用户需求和用户体验的最佳途径。\n产品经理的目标是在最短的时间内把握复杂的市场和用户需求，确定产品的基本要求——价值，可用性，可行性。\n一旦认定产品符合以上基本要求，它就是一个完整的概念，去掉任何元素都不可能达到预期的结果。","expandState":"expand"},"children":[]}]},{"data":{"id":"buo6jvolkjk0","created":1559979418973,"text":"前言","expandState":"expand"},"children":[{"data":{"id":"buo7gft2eqg0","created":1559981970432,"text":"开发名词","note":"机会评估（opportunity assessment）\n产品原则（product principle）\n产品策略（product strategy）\n产品路线图（product roadmap）\n产品说明文档（product spec）\n产品原型（prototype ）\n人物角色（persona）\n产品原型测试（prototype testing）\n\n","expandState":"expand"},"children":[]}]},{"data":{"id":"buo67e7322w0","created":1559978440538,"text":"第一部分：人员","priority":null,"expandState":"expand","note":"负责定义和开发产品的团队成员的角色和职责\n"},"children":[{"data":{"id":"buo7qjxzs5k0","created":1559982763078,"text":"产品团队","expandState":"expand"},"children":[]},{"data":{"id":"buo7qw6h54o0","created":1559982789713,"text":"关键角色","expandState":"expand"},"children":[{"data":{"id":"buo6qwrkeu80","created":1559979969878,"text":"产品经理","expandState":"expand"},"children":[{"data":{"id":"buo6u7r05480","created":1559980228881,"text":"兼任：创始人、高层主管、主程序员、设计师","expandState":"expand"},"children":[]},{"data":{"id":"buo6uy228rk0","created":1559980286146,"text":"职责","expandState":"expand"},"children":[{"data":{"id":"buo7rvdhs3c0","created":1559982866324,"text":"评估产品机会","expandState":"expand"},"children":[{"data":{"id":"buo7u2alekg0","created":1559983038115,"text":"收集需求和创意"},"children":[]},{"data":{"id":"buo7ub8wokg0","created":1559983057604,"text":"审核需求"},"children":[]},{"data":{"id":"buo7x506kgw0","created":1559983279108,"text":"需求文档","note":"（产品的说明文档、功能说明文档）\n清晰地描述产品的功能和属性，避免讨论产品的实现方法。"},"children":[]}]},{"data":{"id":"buo7rz3t7y80","created":1559982874446,"text":"定义要开发的产品","expandState":"expand"},"children":[{"data":{"id":"buo7uih79m80","created":1559983073343,"text":"探索产品的解决方案"},"children":[]},{"data":{"id":"buo7uofsalc0","created":1559983086318,"text":"特征"},"children":[]},{"data":{"id":"buo7ur92iuw0","created":1559983092442,"text":"功能"},"children":[]},{"data":{"id":"buo7v641ipc0","created":1559983124790,"text":"用户体验"},"children":[]},{"data":{"id":"buo7vc3yrj40","created":1559983137846,"text":"发布的标准"},"children":[]}]},{"data":{"id":"buo6rhosjqo0","created":1559980015423,"text":"管理产品","expandState":"expand"},"children":[]}]},{"data":{"id":"buo9e5llknc0","created":1559987433704,"text":"工作","expandState":"expand"},"children":[{"data":{"id":"buo8tn2uuvc0","created":1559985826105,"text":"面向开发团队","expandState":"expand"},"children":[]},{"data":{"id":"buo9ebf0fm80","created":1559987446366,"text":"汇报上级","expandState":"expand"},"children":[]},{"data":{"id":"buo9efuoe080","created":1559987456021,"text":"进度跟进","expandState":"expand"},"children":[]},{"data":{"id":"buo9eo06t400","created":1559987473768,"text":"收集信息","expandState":"expand"},"children":[]},{"data":{"id":"buo9ewog9fk0","created":1559987492649,"text":"团队交流","expandState":"expand"},"children":[]}]},{"data":{"id":"buo9a7nl6cg0","created":1559987124721,"text":"优秀的产品经理","note":"工作紧迫感 高效\n善于捕捉问题 快速准确\n思路清晰 问题分解\n用数据说话\n果断  驱动同事做出决策\n判断力\n态度 不找借口","expandState":"expand"},"children":[]}]},{"data":{"id":"buo7yk5s9iw0","created":1559983390463,"text":"用户体验设计师","expandState":"expand"},"children":[{"data":{"id":"buo83glqs3s0","created":1559983774541,"text":"简介","expandState":"expand"},"children":[{"data":{"id":"buo83o7hjw00","created":1559983791094,"text":"交互设计。信息架构。用户界面设计。用户体验架构","expandState":"expand"},"children":[]},{"data":{"id":"buo85oa7y3k0","created":1559983947987,"text":"与产品经理合作，将功能与设计相结合，满足用户需求","expandState":"expand"},"children":[]}]},{"data":{"id":"buo6uy228rk0","created":1559980286146,"text":"职责","expandState":"expand"},"children":[{"data":{"id":"buo82368f0g0","created":1559983666941,"text":"深入理解目标用户","expandState":"expand"},"children":[]},{"data":{"id":"buo82ipgvx40","created":1559983700756,"text":"设计有价值的，可用的功能","expandState":"expand"},"children":[]},{"data":{"id":"buo82xtlk3s0","created":1559983733658,"text":"用户导航和产品使用流程","expandState":"expand"},"children":[]}]},{"data":{"id":"buo84r8sgdk0","created":1559983876067,"text":"目标","expandState":"expand"},"children":[{"data":{"id":"buo84uu3zrs0","created":1559983883886,"text":"确保产品同时具有可用性和价值","note":"可用性指的是用户明白如何使用产品。\n价值指的是用户对产品的渴求程度。","expandState":"expand"},"children":[]}]}]},{"data":{"id":"buo7ypwimhk0","created":1559983402963,"text":"项目管理人员","expandState":"expand"},"children":[{"data":{"id":"buo85yx041s0","created":1559983971133,"text":"职责","expandState":"expand"},"children":[{"data":{"id":"buo86l0uhtc0","created":1559984019254,"text":"制定计划","expandState":"expand"},"children":[]},{"data":{"id":"buo86oezjd40","created":1559984026640,"text":"跟踪进度","expandState":"expand"},"children":[]},{"data":{"id":"buo97yex0680","created":1559986947877,"text":"关注如何执行计划以按时交付产品","expandState":"expand"},"children":[]}]},{"data":{"id":"buo8c60mii00","created":1559984456774,"text":"项目经理","expandState":"expand"},"children":[{"data":{"id":"buo8c8yrwww0","created":1559984463193,"text":"客户沟通、理解需求、进度控制、范围管理、成本管理、质量管理、风险管理、人力资源管理、采购管理","expandState":"expand"},"children":[]},{"data":{"id":"buo8pykbt5k0","created":1559985537649,"text":"开发人员超过十人时、火车模型发布模式（周期经理）","expandState":"expand"},"children":[]}]}]},{"data":{"id":"buo7yvh6um00","created":1559983415097,"text":"开发团队","expandState":"expand"},"children":[{"data":{"id":"buo85yx041s0","created":1559983971133,"text":"职责","expandState":"expand"},"children":[{"data":{"id":"buo874i14940","created":1559984061652,"text":"开发","expandState":"expand"},"children":[]}]}]},{"data":{"id":"buo7yz1prq80","created":1559983422868,"text":"运维团队","expandState":"expand"},"children":[{"data":{"id":"buo85yx041s0","created":1559983971133,"text":"职责","expandState":"expand"},"children":[{"data":{"id":"buo882ftllc0","created":1559984135529,"text":"保证服务正常运行","expandState":"expand"},"children":[]}]}]},{"data":{"id":"buo7z213ayg0","created":1559983429361,"text":"产品营销人员","expandState":"expand"},"children":[{"data":{"id":"buo85yx041s0","created":1559983971133,"text":"职责","expandState":"expand"},"children":[{"data":{"id":"buo8897iw6w0","created":1559984150265,"text":"对外发布消息。宣传产品。拓展市场销售渠道。组织重点营销活动。促进产品销售提供支持。","expandState":"expand"},"children":[]}]}]}]},{"data":{"id":"buo8ufqzgf40","created":1559985888514,"text":"对比","expandState":"expand"},"children":[{"data":{"id":"buo8uieb5f40","created":1559985894278,"text":"产品经理与产品营销","expandState":"expand"},"children":[{"data":{"id":"buo8uq814vs0","created":1559985911313,"text":"必须清晰界定","expandState":"expand"},"children":[]},{"data":{"id":"buo8vm9l4k80","created":1559985981064,"text":"交换产品需求与市场营销信息","expandState":"expand"},"children":[]}]},{"data":{"id":"buo8eyuby480","created":1559984676249,"text":"产品经理与项目经理","note":null,"expandState":"expand"},"children":[{"data":{"id":"buo97lq61lk0","created":1559986920259,"text":"职责不同","expandState":"expand"},"children":[]},{"data":{"id":"buo8ffbv1bc0","created":1559984712137,"text":"客户群体不同","note":"项目经理针对的是一个客户或一个公司，需求为客户提出的，只要能满足此客户需求并成功上线，就算项目成功，项目经理关注的是单个用户。\n产品经理的需求来源于市场和目标用户群，为目标用户群服务，产品的成功与否由市场决定。项目经理与产品经理关注的目标客户不同。","expandState":"expand"},"children":[]},{"data":{"id":"buo8fy26e6g0","created":1559984752910,"text":"利润与风险不同","note":"项目经理负责的是指定项目，项目合同签订后付首款，项目成功结束后结尾款。\n\n利润＝合同额－项目成本－其它开销。利润有限但同样风险也较小。\n\n产品经理负责的是目标市场，用户群大，产品方向把握、控制也比较复杂。但如果产品能够成功，回报率也相对丰厚。但如产品没有运作成功，所有前期费用及开发费用都会付之东流。","expandState":"expand"},"children":[]},{"data":{"id":"buo8g0rqlk00","created":1559984758810,"text":"生命周期不同","note":"理论上项目开发完成功交付给客户就算项目结束了，除非客户有额外的维护要求。项目经理的工作是临时性的，项目成功交付后项目就会解散。\n\n产品是持续的，开始上线的版本一般是Beta版，用来了解市场反应、收集用户反馈，为下一次升级做准备。只要产品生命周期没结束，就会一直迭代下去。","expandState":"expand"},"children":[]},{"data":{"id":"buo8g4kh2jk0","created":1559984767077,"text":"开发方式不同","note":"项目经理一般强调的是快速、灵活，经常采用敏捷的开发方式，通过原型来不断的完善用户需求。开发流程也不固定，为了实现快速开发，有时会需求、设计及开发工作会穿插进行。项目经理在管理项目时，需要与客户进行频繁的接触，能够很好的了解需求，也能够获取客户的认可，一般项目失败不是因为技术原因，而多是因为项目方与客户之间缺乏信任。\n\n产品经理开发产品，需要经过产品的定义、可行性研究、需求、设计、开发、测试等严格的过程，产品周期会比较长，各步骤中也会有各种产品相关文档。产品的失败多因为市场定位不准确，市场推广能力不足。","expandState":"expand"},"children":[]},{"data":{"id":"buo8g7k2d0w0","created":1559984773583,"text":"市场定位不同","note":"项目的承接多是缘于熟人关系，之间有一定信任度才产生的合作，项目经理在管理整个项目过程中只要维护好客户关系并成功完成项目就算是交出一份满意答卷。\n\n产品是服务于生人市场，只有产品质量过硬，确实能解决用户问题，用户才会购买。所以，产品经理多要研究用户行为，多关注竞争对手产品。","expandState":"expand"},"children":[]},{"data":{"id":"buo8ga2oud40","created":1559984779063,"text":"沟通的对象不同","note":"项目经理多与客户及项目团队内部成员进行沟通，只要客户配合、公司支持、团队内部成员团结一致，项目基本上就会较好的完成。\n\n产品经理沟通的对象会比较多，需要与目标用户沟通、领导沟通、其它部门相关人沟通（运营部门、市场部门等）、部门内相关人沟通。沟通的维度会更多，难度会更大。","expandState":"expand"},"children":[]},{"data":{"id":"buo8gtn2lbk0","created":1559984821654,"text":"思考方式","note":"项目优先考虑成本，注重当下，\n产品更多考虑质量，注重未来","expandState":"expand"},"children":[]}]},{"data":{"id":"buo9igd6mfc0","created":1559987770596,"text":"产品经理与产品设计","expandState":"expand"},"children":[{"data":{"id":"buo9m7lvyjk0","created":1559988064988,"text":"用户研究","expandState":"expand"},"children":[]},{"data":{"id":"buo9mbponfs0","created":1559988073925,"text":"交互设计","expandState":"expand"},"children":[]},{"data":{"id":"buo9mdalco80","created":1559988077366,"text":"视觉设计","expandState":"expand"},"children":[]},{"data":{"id":"buo9mey96wo0","created":1559988080973,"text":"原型制作","expandState":"expand"},"children":[]}]},{"data":{"id":"buo9o3md0cg0","created":1559988213038,"text":"产品经理与开发团队","expandState":"expand"},"children":[{"data":{"id":"buo9o9f2amw0","created":1559988225657,"text":"承认彼此平等","expandState":"expand"},"children":[{"data":{"id":"buo9ogi4wuo0","created":1559988241081,"text":"定义正确的产品","expandState":"expand"},"children":[]},{"data":{"id":"buo9okbaxbk0","created":1559988249375,"text":"正确地开发产品","expandState":"expand"},"children":[]},{"data":{"id":"buo9oz2pfew0","created":1559988281506,"text":"取得认可，相互促进","expandState":"expand"},"children":[]}]},{"data":{"id":"buo9qdpdsj40","created":1559988391717,"text":"开发人员协助完善产品定义","expandState":"expand"},"children":[{"data":{"id":"buo9qiyclc80","created":1559988403143,"text":"直面用户，参与原型测试，了解问题","expandState":"expand"},"children":[]},{"data":{"id":"buo9qve4iqo0","created":1559988430218,"text":"了解技术发展动向，解决更多问题","expandState":"expand"},"children":[]},{"data":{"id":"buo9r9dbsrc0","created":1559988460645,"text":"在初期阶段参与，协调需求与可行性","expandState":"expand"},"children":[]}]},{"data":{"id":"buodx0fju4g0","created":1560000195813,"text":"产品经理配合开发团队","expandState":"expand"},"children":[{"data":{"id":"buodxa6ty000","created":1560000217053,"text":"只定义满足基本要求的产品","expandState":"expand"},"children":[]},{"data":{"id":"buodxkfrots0","created":1560000239362,"text":"开发阶段避免修改需求和设计","expandState":"expand"},"children":[]},{"data":{"id":"buody7mw6zs0","created":1560000289859,"text":"遇到问题原则是避免过大修改","expandState":"expand"},"children":[]}]}]}]},{"data":{"id":"buo7r3df9600","created":1559982805370,"text":"招聘","expandState":"expand"},"children":[{"data":{"id":"buog6ghb11s0","created":1560006578245,"text":"特质","expandState":"expand"},"children":[{"data":{"id":"buog6mofz1c0","created":1560006591737,"text":"个人素质和态度"},"children":[]},{"data":{"id":"buog6w473h40","created":1560006612281,"text":"对产品的热情"},"children":[]},{"data":{"id":"buog6zh526g0","created":1560006619594,"text":"用户立场"},"children":[]},{"data":{"id":"buog72vf6zc0","created":1560006626988,"text":"智力"},"children":[]},{"data":{"id":"buog75mcttk0","created":1560006632970,"text":"职业操守"},"children":[]},{"data":{"id":"buog7apjduo0","created":1560006644046,"text":"正直"},"children":[]},{"data":{"id":"buog7zy0uxs0","created":1560006698979,"text":"信心"},"children":[]},{"data":{"id":"buog8t3l1e80","created":1560006762442,"text":"态度"},"children":[]},{"data":{"id":"buog8wutc740","created":1560006770618,"text":"技能"},"children":[]},{"data":{"id":"buog91jasc80","created":1560006780806,"text":"运用技术的能力"},"children":[]},{"data":{"id":"buog956c6fk0","created":1560006788730,"text":"注意力"},"children":[]},{"data":{"id":"buog97um6bk0","created":1560006794551,"text":"时间管理"},"children":[]},{"data":{"id":"buog9bfqryw0","created":1560006802359,"text":"沟通技能"},"children":[]},{"data":{"id":"buog9gb5kvc0","created":1560006812965,"text":"商业技能"},"children":[]},{"data":{"id":"buogcxqesa00","created":1560007085986,"text":"对产品的热情"},"children":[]}]},{"data":{"id":"buogdq76k1c0","created":1560007147950,"text":"xunzhao  peiyang"},"children":[]}]},{"data":{"id":"buo7r7hdd3k0","created":1559982814316,"text":"管理","expandState":"expand"},"children":[]}]},{"data":{"id":"buo67gz3h0o0","created":1559978446586,"text":"第二部分：流程","note":"探索、开发富有创意的产品时，反复应用的步骤和成功的实践经验。","expandState":"expand"},"children":[{"data":{"id":"buo6vfjv2k00","created":1559980324228,"text":"分支主题","expandState":"expand"},"children":[]}]},{"data":{"id":"buo6w2j9vxc0","created":1559980374258,"text":"第三部分：产品","note":"富有创意的产品具有鲜明的特征。","expandState":"expand"},"children":[{"data":{"id":"buo6wa9pbjs0","created":1559980391094,"text":"产品与项目","expandState":"expand"},"children":[{"data":{"id":"buo8cpjyj340","created":1559984499302,"text":"生命周期","note":"项目的生命周期以将成果物交付给客户为生命周期的结束标志；\n产品是需要不断迭代、升级的过程，产品的生命周期会一直延续到产品退出市场\n","expandState":"expand"},"children":[]}]},{"data":{"id":"buofjdqeq9k0","created":1560004769889,"text":"开发常见问题"},"children":[{"data":{"id":"buofjjnff9s0","created":1560004782770,"text":"代码需要重构"},"children":[{"data":{"id":"buofjmaou680","created":1560004788530,"text":"预留20%的时间重写代码、完善架构、更换平台"},"children":[]},{"data":{"id":"buog3d42t280","created":1560006335822,"text":"一、制定计划和时间表"},"children":[]},{"data":{"id":"buog3ptdfj40","created":1560006363473,"text":"二、细分任务递增修改"},"children":[]},{"data":{"id":"buog47pd9v40","created":1560006402413,"text":"三、确保产品定义的正确性"},"children":[]}]},{"data":{"id":"buog5ecgsfk0","created":1560006495234,"text":"项目的外包与远程开发"},"children":[]},{"data":{"id":"buog5k27boo0","created":1560006507675,"text":"分支主题"},"children":[]}]}]}]},"template":"right","theme":"classic-compact","version":"1.4.43"}
+{
+    "root": {
+        "data": {
+            "id": "buo65ggf1ns0",
+            "created": 1559978288728,
+            "text": "启示录",
+            "progress": null,
+            "note": "打造用户喜爱的产品\n",
+            "expandState": "expand"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "buo677c3n7s0",
+                    "created": 1559978425604,
+                    "text": "笔记",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "buo6kodtbuo0",
+                            "created": 1559979481447,
+                            "text": "产品的特性",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "buo6mgqfpu80",
+                                    "created": 1559979621524,
+                                    "text": "有价值",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buo6qawci740",
+                                            "created": 1559979922278,
+                                            "text": "市场价值",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "buo6lulpxg80",
+                                    "created": 1559979573350,
+                                    "text": "可用的",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buo6lo0haqo0",
+                                    "created": 1559979559005,
+                                    "text": "可行的",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buo6lzmkvnk0",
+                                    "created": 1559979584286,
+                                    "text": "可比性",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buo6p5cp58g0",
+                                    "created": 1559979831842,
+                                    "text": "具有公共物品的性质",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buo6or8f5ts0",
+                                    "created": 1559979801108,
+                                    "text": "具有经验产品的性质",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buo6krudnhc0",
+                                            "created": 1559979488979,
+                                            "text": "可复制",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo6mc7yoj40",
+                                            "created": 1559979611700,
+                                            "text": "稳定性",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo6me2qfw80",
+                                            "created": 1559979615738,
+                                            "text": "廉价",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "buo8x1kal3s0",
+                                    "created": 1559986092727,
+                                    "text": "好的产品",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buo6mkvk1k00",
+                                            "created": 1559979630541,
+                                            "text": "有生命的",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo6miewy5s0",
+                                            "created": 1559979625181,
+                                            "text": "有创意的",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo9hwx30qw0",
+                                            "created": 1559987728264,
+                                            "text": "舒适的",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo6mowu12g0",
+                                            "created": 1559979639326,
+                                            "text": "触及用户内心的",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "buo74yxl2hs0",
+                            "created": 1559981071694,
+                            "text": "本书主题",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "buo75lj81hk0",
+                                    "created": 1559981120891,
+                                    "text": "核心标准",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buo75otr8m80",
+                                            "created": 1559981128059,
+                                            "text": "鼓励思考。与工作密切相关。切实可行。",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "buo76rvnpfk0",
+                            "created": 1559981213068,
+                            "text": "好产品的规律",
+                            "note": "产品经理的任务是探索产品的价值，可用性，可行性。\n探索或者定义产品需要产品经理，交互设计师，软件架构师通力合作。\n开发人员不擅长用户体验设计，因为开发人员的脑子里想的是实现模型，而用户看重的是产品的概念模型。\n用户体验设计就是交互设计，视觉设计。对硬件设备来说是工业设计。\n功能（产品需求）和用户体验设计密不可分。\n产品创意必须尽早地，反复地接受目标用户的试用，以便获得有效的用户体验。\n为了验证产品的价值和可行性，必须尽早地，为了验证产品的价值和可行性，必须尽早地反复的请目标用户，测试产品创意。\n采用高保真的产品原型是全体团队成员了解用户需求和用户体验的最佳途径。\n产品经理的目标是在最短的时间内把握复杂的市场和用户需求，确定产品的基本要求——价值，可用性，可行性。\n一旦认定产品符合以上基本要求，它就是一个完整的概念，去掉任何元素都不可能达到预期的结果。",
+                            "expandState": "expand"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "buo6jvolkjk0",
+                    "created": 1559979418973,
+                    "text": "前言",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "buo7gft2eqg0",
+                            "created": 1559981970432,
+                            "text": "开发名词",
+                            "note": "机会评估（opportunity assessment）\n产品原则（product principle）\n产品策略（product strategy）\n产品路线图（product roadmap）\n产品说明文档（product spec）\n产品原型（prototype ）\n人物角色（persona）\n产品原型测试（prototype testing）\n\n",
+                            "expandState": "expand"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "buo67e7322w0",
+                    "created": 1559978440538,
+                    "text": "第一部分：人员",
+                    "priority": null,
+                    "expandState": "expand",
+                    "note": "负责定义和开发产品的团队成员的角色和职责\n"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "buo7qjxzs5k0",
+                            "created": 1559982763078,
+                            "text": "产品团队",
+                            "expandState": "expand"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "buo7qw6h54o0",
+                            "created": 1559982789713,
+                            "text": "关键角色",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "buo6qwrkeu80",
+                                    "created": 1559979969878,
+                                    "text": "产品经理",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buo6u7r05480",
+                                            "created": 1559980228881,
+                                            "text": "兼任：创始人、高层主管、主程序员、设计师",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo6uy228rk0",
+                                            "created": 1559980286146,
+                                            "text": "职责",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "buo7rvdhs3c0",
+                                                    "created": 1559982866324,
+                                                    "text": "评估产品机会",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "buo7u2alekg0",
+                                                            "created": 1559983038115,
+                                                            "text": "收集需求和创意"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "buo7ub8wokg0",
+                                                            "created": 1559983057604,
+                                                            "text": "审核需求"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "buo7x506kgw0",
+                                                            "created": 1559983279108,
+                                                            "text": "需求文档",
+                                                            "note": "（产品的说明文档、功能说明文档）\n清晰地描述产品的功能和属性，避免讨论产品的实现方法。"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buo7rz3t7y80",
+                                                    "created": 1559982874446,
+                                                    "text": "定义要开发的产品",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "buo7uih79m80",
+                                                            "created": 1559983073343,
+                                                            "text": "探索产品的解决方案"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "buo7uofsalc0",
+                                                            "created": 1559983086318,
+                                                            "text": "特征"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "buo7ur92iuw0",
+                                                            "created": 1559983092442,
+                                                            "text": "功能"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "buo7v641ipc0",
+                                                            "created": 1559983124790,
+                                                            "text": "用户体验"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "buo7vc3yrj40",
+                                                            "created": 1559983137846,
+                                                            "text": "发布的标准"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buo6rhosjqo0",
+                                                    "created": 1559980015423,
+                                                    "text": "管理产品",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo9e5llknc0",
+                                            "created": 1559987433704,
+                                            "text": "工作",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "buo8tn2uuvc0",
+                                                    "created": 1559985826105,
+                                                    "text": "面向开发团队",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buo9ebf0fm80",
+                                                    "created": 1559987446366,
+                                                    "text": "汇报上级",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buo9efuoe080",
+                                                    "created": 1559987456021,
+                                                    "text": "进度跟进",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buo9eo06t400",
+                                                    "created": 1559987473768,
+                                                    "text": "收集信息",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buo9ewog9fk0",
+                                                    "created": 1559987492649,
+                                                    "text": "团队交流",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo9a7nl6cg0",
+                                            "created": 1559987124721,
+                                            "text": "优秀的产品经理",
+                                            "note": "工作紧迫感 高效\n善于捕捉问题 快速准确\n思路清晰 问题分解\n用数据说话\n果断  驱动同事做出决策\n判断力\n态度 不找借口",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "buo7yk5s9iw0",
+                                    "created": 1559983390463,
+                                    "text": "用户体验设计师",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buo83glqs3s0",
+                                            "created": 1559983774541,
+                                            "text": "简介",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "buo83o7hjw00",
+                                                    "created": 1559983791094,
+                                                    "text": "交互设计。信息架构。用户界面设计。用户体验架构",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buo85oa7y3k0",
+                                                    "created": 1559983947987,
+                                                    "text": "与产品经理合作，将功能与设计相结合，满足用户需求",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo6uy228rk0",
+                                            "created": 1559980286146,
+                                            "text": "职责",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "buo82368f0g0",
+                                                    "created": 1559983666941,
+                                                    "text": "深入理解目标用户",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buo82ipgvx40",
+                                                    "created": 1559983700756,
+                                                    "text": "设计有价值的，可用的功能",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buo82xtlk3s0",
+                                                    "created": 1559983733658,
+                                                    "text": "用户导航和产品使用流程",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo84r8sgdk0",
+                                            "created": 1559983876067,
+                                            "text": "目标",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "buo84uu3zrs0",
+                                                    "created": 1559983883886,
+                                                    "text": "确保产品同时具有可用性和价值",
+                                                    "note": "可用性指的是用户明白如何使用产品。\n价值指的是用户对产品的渴求程度。",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "buo7ypwimhk0",
+                                    "created": 1559983402963,
+                                    "text": "项目管理人员",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buo85yx041s0",
+                                            "created": 1559983971133,
+                                            "text": "职责",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "buo86l0uhtc0",
+                                                    "created": 1559984019254,
+                                                    "text": "制定计划",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buo86oezjd40",
+                                                    "created": 1559984026640,
+                                                    "text": "跟踪进度",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buo97yex0680",
+                                                    "created": 1559986947877,
+                                                    "text": "关注如何执行计划以按时交付产品",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo8c60mii00",
+                                            "created": 1559984456774,
+                                            "text": "项目经理",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "buo8c8yrwww0",
+                                                    "created": 1559984463193,
+                                                    "text": "客户沟通、理解需求、进度控制、范围管理、成本管理、质量管理、风险管理、人力资源管理、采购管理",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buo8pykbt5k0",
+                                                    "created": 1559985537649,
+                                                    "text": "开发人员超过十人时、火车模型发布模式（周期经理）",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "buo7yvh6um00",
+                                    "created": 1559983415097,
+                                    "text": "开发团队",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buo85yx041s0",
+                                            "created": 1559983971133,
+                                            "text": "职责",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "buo874i14940",
+                                                    "created": 1559984061652,
+                                                    "text": "开发",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "buo7yz1prq80",
+                                    "created": 1559983422868,
+                                    "text": "运维团队",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buo85yx041s0",
+                                            "created": 1559983971133,
+                                            "text": "职责",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "buo882ftllc0",
+                                                    "created": 1559984135529,
+                                                    "text": "保证服务正常运行",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "buo7z213ayg0",
+                                    "created": 1559983429361,
+                                    "text": "产品营销人员",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buo85yx041s0",
+                                            "created": 1559983971133,
+                                            "text": "职责",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "buo8897iw6w0",
+                                                    "created": 1559984150265,
+                                                    "text": "对外发布消息。宣传产品。拓展市场销售渠道。组织重点营销活动。促进产品销售提供支持。",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "buo8ufqzgf40",
+                            "created": 1559985888514,
+                            "text": "对比",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "buo8uieb5f40",
+                                    "created": 1559985894278,
+                                    "text": "产品经理与产品营销",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buo8uq814vs0",
+                                            "created": 1559985911313,
+                                            "text": "必须清晰界定",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo8vm9l4k80",
+                                            "created": 1559985981064,
+                                            "text": "交换产品需求与市场营销信息",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "buo8eyuby480",
+                                    "created": 1559984676249,
+                                    "text": "产品经理与项目经理",
+                                    "note": null,
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buo97lq61lk0",
+                                            "created": 1559986920259,
+                                            "text": "职责不同",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo8ffbv1bc0",
+                                            "created": 1559984712137,
+                                            "text": "客户群体不同",
+                                            "note": "项目经理针对的是一个客户或一个公司，需求为客户提出的，只要能满足此客户需求并成功上线，就算项目成功，项目经理关注的是单个用户。\n产品经理的需求来源于市场和目标用户群，为目标用户群服务，产品的成功与否由市场决定。项目经理与产品经理关注的目标客户不同。",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo8fy26e6g0",
+                                            "created": 1559984752910,
+                                            "text": "利润与风险不同",
+                                            "note": "项目经理负责的是指定项目，项目合同签订后付首款，项目成功结束后结尾款。\n\n利润＝合同额－项目成本－其它开销。利润有限但同样风险也较小。\n\n产品经理负责的是目标市场，用户群大，产品方向把握、控制也比较复杂。但如果产品能够成功，回报率也相对丰厚。但如产品没有运作成功，所有前期费用及开发费用都会付之东流。",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo8g0rqlk00",
+                                            "created": 1559984758810,
+                                            "text": "生命周期不同",
+                                            "note": "理论上项目开发完成功交付给客户就算项目结束了，除非客户有额外的维护要求。项目经理的工作是临时性的，项目成功交付后项目就会解散。\n\n产品是持续的，开始上线的版本一般是Beta版，用来了解市场反应、收集用户反馈，为下一次升级做准备。只要产品生命周期没结束，就会一直迭代下去。",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo8g4kh2jk0",
+                                            "created": 1559984767077,
+                                            "text": "开发方式不同",
+                                            "note": "项目经理一般强调的是快速、灵活，经常采用敏捷的开发方式，通过原型来不断的完善用户需求。开发流程也不固定，为了实现快速开发，有时会需求、设计及开发工作会穿插进行。项目经理在管理项目时，需要与客户进行频繁的接触，能够很好的了解需求，也能够获取客户的认可，一般项目失败不是因为技术原因，而多是因为项目方与客户之间缺乏信任。\n\n产品经理开发产品，需要经过产品的定义、可行性研究、需求、设计、开发、测试等严格的过程，产品周期会比较长，各步骤中也会有各种产品相关文档。产品的失败多因为市场定位不准确，市场推广能力不足。",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo8g7k2d0w0",
+                                            "created": 1559984773583,
+                                            "text": "市场定位不同",
+                                            "note": "项目的承接多是缘于熟人关系，之间有一定信任度才产生的合作，项目经理在管理整个项目过程中只要维护好客户关系并成功完成项目就算是交出一份满意答卷。\n\n产品是服务于生人市场，只有产品质量过硬，确实能解决用户问题，用户才会购买。所以，产品经理多要研究用户行为，多关注竞争对手产品。",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo8ga2oud40",
+                                            "created": 1559984779063,
+                                            "text": "沟通的对象不同",
+                                            "note": "项目经理多与客户及项目团队内部成员进行沟通，只要客户配合、公司支持、团队内部成员团结一致，项目基本上就会较好的完成。\n\n产品经理沟通的对象会比较多，需要与目标用户沟通、领导沟通、其它部门相关人沟通（运营部门、市场部门等）、部门内相关人沟通。沟通的维度会更多，难度会更大。",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo8gtn2lbk0",
+                                            "created": 1559984821654,
+                                            "text": "思考方式",
+                                            "note": "项目优先考虑成本，注重当下，\n产品更多考虑质量，注重未来",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "buo9igd6mfc0",
+                                    "created": 1559987770596,
+                                    "text": "产品经理与产品设计",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buo9m7lvyjk0",
+                                            "created": 1559988064988,
+                                            "text": "用户研究",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo9mbponfs0",
+                                            "created": 1559988073925,
+                                            "text": "交互设计",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo9mdalco80",
+                                            "created": 1559988077366,
+                                            "text": "视觉设计",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo9mey96wo0",
+                                            "created": 1559988080973,
+                                            "text": "原型制作",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "buo9o3md0cg0",
+                                    "created": 1559988213038,
+                                    "text": "产品经理与开发团队",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buo9o9f2amw0",
+                                            "created": 1559988225657,
+                                            "text": "承认彼此平等",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "buo9ogi4wuo0",
+                                                    "created": 1559988241081,
+                                                    "text": "定义正确的产品",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buo9okbaxbk0",
+                                                    "created": 1559988249375,
+                                                    "text": "正确地开发产品",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buo9oz2pfew0",
+                                                    "created": 1559988281506,
+                                                    "text": "取得认可，相互促进",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo9qdpdsj40",
+                                            "created": 1559988391717,
+                                            "text": "开发人员协助完善产品定义",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "buo9qiyclc80",
+                                                    "created": 1559988403143,
+                                                    "text": "直面用户，参与原型测试，了解问题",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buo9qve4iqo0",
+                                                    "created": 1559988430218,
+                                                    "text": "了解技术发展动向，解决更多问题",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buo9r9dbsrc0",
+                                                    "created": 1559988460645,
+                                                    "text": "在初期阶段参与，协调需求与可行性",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buodx0fju4g0",
+                                            "created": 1560000195813,
+                                            "text": "产品经理配合开发团队",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "buodxa6ty000",
+                                                    "created": 1560000217053,
+                                                    "text": "只定义满足基本要求的产品",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buodxkfrots0",
+                                                    "created": 1560000239362,
+                                                    "text": "开发阶段避免修改需求和设计",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buody7mw6zs0",
+                                                    "created": 1560000289859,
+                                                    "text": "遇到问题原则是避免过大修改",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "buo7r3df9600",
+                            "created": 1559982805370,
+                            "text": "招聘",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "buog6ghb11s0",
+                                    "created": 1560006578245,
+                                    "text": "特质",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buog6mofz1c0",
+                                            "created": 1560006591737,
+                                            "text": "个人素质和态度"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buog6w473h40",
+                                            "created": 1560006612281,
+                                            "text": "对产品的热情"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buog6zh526g0",
+                                            "created": 1560006619594,
+                                            "text": "用户立场"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buog72vf6zc0",
+                                            "created": 1560006626988,
+                                            "text": "智力"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buog75mcttk0",
+                                            "created": 1560006632970,
+                                            "text": "职业操守"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buog7apjduo0",
+                                            "created": 1560006644046,
+                                            "text": "正直"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buog7zy0uxs0",
+                                            "created": 1560006698979,
+                                            "text": "信心"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buog8t3l1e80",
+                                            "created": 1560006762442,
+                                            "text": "态度"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buog8wutc740",
+                                            "created": 1560006770618,
+                                            "text": "技能"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buog91jasc80",
+                                            "created": 1560006780806,
+                                            "text": "运用技术的能力"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buog956c6fk0",
+                                            "created": 1560006788730,
+                                            "text": "注意力"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buog97um6bk0",
+                                            "created": 1560006794551,
+                                            "text": "时间管理"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buog9bfqryw0",
+                                            "created": 1560006802359,
+                                            "text": "沟通技能"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buog9gb5kvc0",
+                                            "created": 1560006812965,
+                                            "text": "商业技能"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buogcxqesa00",
+                                            "created": 1560007085986,
+                                            "text": "对产品的热情"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "buogdq76k1c0",
+                                    "created": 1560007147950,
+                                    "text": "xunzhao  peiyang"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "buo7r7hdd3k0",
+                            "created": 1559982814316,
+                            "text": "管理",
+                            "expandState": "expand"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "buo67gz3h0o0",
+                    "created": 1559978446586,
+                    "text": "第二部分：流程",
+                    "note": "探索、开发富有创意的产品时，反复应用的步骤和成功的实践经验。",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "buo6vfjv2k00",
+                            "created": 1559980324228,
+                            "text": "分支主题",
+                            "expandState": "expand"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "buo6w2j9vxc0",
+                    "created": 1559980374258,
+                    "text": "第三部分：产品",
+                    "note": "富有创意的产品具有鲜明的特征。",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "buo6wa9pbjs0",
+                            "created": 1559980391094,
+                            "text": "产品与项目",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "buo8cpjyj340",
+                                    "created": 1559984499302,
+                                    "text": "生命周期",
+                                    "note": "项目的生命周期以将成果物交付给客户为生命周期的结束标志；\n产品是需要不断迭代、升级的过程，产品的生命周期会一直延续到产品退出市场\n",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "buofjdqeq9k0",
+                            "created": 1560004769889,
+                            "text": "开发常见问题"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "buofjjnff9s0",
+                                    "created": 1560004782770,
+                                    "text": "代码需要重构"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buofjmaou680",
+                                            "created": 1560004788530,
+                                            "text": "预留20%的时间重写代码、完善架构、更换平台"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buog3d42t280",
+                                            "created": 1560006335822,
+                                            "text": "一、制定计划和时间表"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buog3ptdfj40",
+                                            "created": 1560006363473,
+                                            "text": "二、细分任务递增修改"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buog47pd9v40",
+                                            "created": 1560006402413,
+                                            "text": "三、确保产品定义的正确性"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "buog5ecgsfk0",
+                                    "created": 1560006495234,
+                                    "text": "项目的外包与远程开发"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buog5k27boo0",
+                                    "created": 1560006507675,
+                                    "text": "分支主题"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "classic-compact",
+    "version": "1.4.43"
+}
