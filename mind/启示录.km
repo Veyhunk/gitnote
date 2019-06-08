@@ -1122,14 +1122,6 @@
                                             "text": "商业技能"
                                         },
                                         "children": []
-                                    },
-                                    {
-                                        "data": {
-                                            "id": "buogcxqesa00",
-                                            "created": 1560007085986,
-                                            "text": "对产品的热情"
-                                        },
-                                        "children": []
                                     }
                                 ]
                             },
@@ -1137,7 +1129,72 @@
                                 "data": {
                                     "id": "buogdq76k1c0",
                                     "created": 1560007147950,
-                                    "text": "xunzhao  peiyang"
+                                    "text": "寻找具有上述特质的人，培养他"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buoh7jn7bmo0",
+                                    "created": 1560009484606,
+                                    "text": "最宝贵的经验"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buoh7sl4g600",
+                                            "created": 1560009504071,
+                                            "text": "打造优秀产品的流程"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buoh7wa01ds0",
+                                            "created": 1560009512106,
+                                            "text": "领导产品团队的能力"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buoh80svg6w0",
+                                            "created": 1560009521954,
+                                            "text": "应对产品扩张的经验"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buoh842wiow0",
+                                            "created": 1560009529091,
+                                            "text": "个人对自己的认知"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buoh87ofci00",
+                                            "created": 1560009536923,
+                                            "text": "自我激励的能力"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "buoh8uyz88w0",
+                                    "created": 1560009587627,
+                                    "text": "关注学习的思路，而不是已经掌握的知识"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buoh91aicb40",
+                                    "created": 1560009601385,
+                                    "text": "研发产品前学习哪些知识，用了多少时间？如何利用这些知识。"
                                 },
                                 "children": []
                             }
