@@ -12,8 +12,7 @@
                 "data": {
                     "id": "buo677c3n7s0",
                     "created": 1559978425604,
-                    "text": "笔记",
-                    "layout": null
+                    "text": "笔记"
                 },
                 "children": [
                     {
@@ -190,7 +189,6 @@
                     "id": "buo67e7322w0",
                     "created": 1559978440538,
                     "text": "第一部分：人员",
-                    "layout": null,
                     "priority": null,
                     "expandState": "expand",
                     "note": "负责定义和开发产品的团队成员的角色和职责\n"
@@ -198,46 +196,197 @@
                 "children": [
                     {
                         "data": {
-                            "id": "buo6qwrkeu80",
-                            "created": 1559979969878,
-                            "text": "产品经理"
+                            "id": "buo7qjxzs5k0",
+                            "created": 1559982763078,
+                            "text": "产品团队"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "buo7qw6h54o0",
+                            "created": 1559982789713,
+                            "text": "关键角色",
+                            "expandState": "expand"
                         },
                         "children": [
                             {
                                 "data": {
-                                    "id": "buo6u7r05480",
-                                    "created": 1559980228881,
-                                    "text": "兼任：创始人、高层主管、主程序员、设计师"
-                                },
-                                "children": []
-                            },
-                            {
-                                "data": {
-                                    "id": "buo6uy228rk0",
-                                    "created": 1559980286146,
-                                    "text": "职责",
-                                    "expandState": "expand"
+                                    "id": "buo6qwrkeu80",
+                                    "created": 1559979969878,
+                                    "text": "产品经理"
                                 },
                                 "children": [
                                     {
                                         "data": {
-                                            "id": "buo6qz6zub40",
-                                            "created": 1559979975164,
-                                            "text": "定义产品"
+                                            "id": "buo6u7r05480",
+                                            "created": 1559980228881,
+                                            "text": "兼任：创始人、高层主管、主程序员、设计师"
                                         },
                                         "children": []
                                     },
                                     {
                                         "data": {
-                                            "id": "buo6rhosjqo0",
-                                            "created": 1559980015423,
-                                            "text": "管理产品"
+                                            "id": "buo6uy228rk0",
+                                            "created": 1559980286146,
+                                            "text": "职责",
+                                            "expandState": "expand"
                                         },
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "buo7rvdhs3c0",
+                                                    "created": 1559982866324,
+                                                    "text": "评估产品机会",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "buo7u2alekg0",
+                                                            "created": 1559983038115,
+                                                            "text": "收集需求和创意"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "buo7ub8wokg0",
+                                                            "created": 1559983057604,
+                                                            "text": "审核需求"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "buo7x506kgw0",
+                                                            "created": 1559983279108,
+                                                            "text": "需求文档",
+                                                            "note": "（产品的说明文档、功能说明文档）\n清晰地描述产品的功能和属性，避免讨论产品的实现方法。"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buo7rz3t7y80",
+                                                    "created": 1559982874446,
+                                                    "text": "定义要开发的产品",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "buo7uih79m80",
+                                                            "created": 1559983073343,
+                                                            "text": "探索产品的解决方案"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "buo7uofsalc0",
+                                                            "created": 1559983086318,
+                                                            "text": "特征"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "buo7ur92iuw0",
+                                                            "created": 1559983092442,
+                                                            "text": "功能"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "buo7v641ipc0",
+                                                            "created": 1559983124790,
+                                                            "text": "用户体验"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "buo7vc3yrj40",
+                                                            "created": 1559983137846,
+                                                            "text": "发布的标准"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buo6rhosjqo0",
+                                                    "created": 1559980015423,
+                                                    "text": "管理产品"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
+                            },
+                            {
+                                "data": {
+                                    "id": "buo7yk5s9iw0",
+                                    "created": 1559983390463,
+                                    "text": "用户体验设计师"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buo7ypwimhk0",
+                                    "created": 1559983402963,
+                                    "text": "项目管理人员"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buo7yvh6um00",
+                                    "created": 1559983415097,
+                                    "text": "开发团队"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buo7yz1prq80",
+                                    "created": 1559983422868,
+                                    "text": "运维团队"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buo7z213ayg0",
+                                    "created": 1559983429361,
+                                    "text": "产品营销人员"
+                                },
+                                "children": []
                             }
                         ]
+                    },
+                    {
+                        "data": {
+                            "id": "buo7r3df9600",
+                            "created": 1559982805370,
+                            "text": "招聘"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "buo7r7hdd3k0",
+                            "created": 1559982814316,
+                            "text": "管理"
+                        },
+                        "children": []
                     }
                 ]
             },
@@ -246,7 +395,6 @@
                     "id": "buo67gz3h0o0",
                     "created": 1559978446586,
                     "text": "第二部分：流程",
-                    "layout": null,
                     "note": "探索、开发富有创意的产品时，反复应用的步骤和成功的实践经验。"
                 },
                 "children": [
