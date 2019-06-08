@@ -1,1 +1,292 @@
-{"root":{"data":{"id":"buo65ggf1ns0","created":1559978288728,"text":"启示录","progress":null,"font-family":"黑体, SimHei","note":"打造用户喜爱的产品\n"},"children":[{"data":{"id":"buo677c3n7s0","created":1559978425604,"text":"笔记","layout":null,"font-family":"黑体, SimHei"},"children":[{"data":{"id":"buo6kodtbuo0","created":1559979481447,"text":"产品的特性","font-family":"黑体, SimHei"},"children":[{"data":{"id":"buo6krudnhc0","created":1559979488979,"text":"可复制","font-family":"黑体, SimHei"},"children":[]},{"data":{"id":"buo6lo0haqo0","created":1559979559005,"text":"可行的","font-family":"黑体, SimHei"},"children":[]},{"data":{"id":"buo6lulpxg80","created":1559979573350,"text":"可用的","font-family":"黑体, SimHei"},"children":[]},{"data":{"id":"buo6lzmkvnk0","created":1559979584286,"text":"可比性","font-family":"黑体, SimHei"},"children":[]},{"data":{"id":"buo6mc7yoj40","created":1559979611700,"text":"稳定性","font-family":"黑体, SimHei"},"children":[]},{"data":{"id":"buo6or8f5ts0","created":1559979801108,"text":"具有经验产品的性质"},"children":[]},{"data":{"id":"buo6p5cp58g0","created":1559979831842,"text":"具有公共物品的性质"},"children":[]},{"data":{"id":"buo6me2qfw80","created":1559979615738,"text":"廉价","font-family":"黑体, SimHei"},"children":[]},{"data":{"id":"buo6mgqfpu80","created":1559979621524,"text":"有价值的","font-family":"黑体, SimHei"},"children":[{"data":{"id":"buo6qawci740","created":1559979922278,"text":"市场价值"},"children":[]}]},{"data":{"id":"buo6miewy5s0","created":1559979625181,"text":"有创意的","font-family":"黑体, SimHei"},"children":[]},{"data":{"id":"buo6mkvk1k00","created":1559979630541,"text":"有生命的","font-family":"黑体, SimHei"},"children":[]},{"data":{"id":"buo6mowu12g0","created":1559979639326,"text":"触及用户内心的","font-family":"黑体, SimHei"},"children":[]}]}]},{"data":{"id":"buo6jvolkjk0","created":1559979418973,"text":"前言","font-family":"黑体, SimHei"},"children":[]},{"data":{"id":"buo67e7322w0","created":1559978440538,"text":"第一部分：人员","layout":null,"font-family":"黑体, SimHei","priority":null,"expandState":"expand"},"children":[{"data":{"id":"buo6qwrkeu80","created":1559979969878,"text":"产品经理"},"children":[{"data":{"id":"buo6u7r05480","created":1559980228881,"text":"兼任：创始人、高层主管、主程序员、设计师"},"children":[]},{"data":{"id":"buo6uy228rk0","created":1559980286146,"text":"职责","expandState":"expand"},"children":[{"data":{"id":"buo6qz6zub40","created":1559979975164,"text":"定义产品"},"children":[]},{"data":{"id":"buo6rhosjqo0","created":1559980015423,"text":"管理产品"},"children":[]}]}]}]},{"data":{"id":"buo67gz3h0o0","created":1559978446586,"text":"第二部分：流程","layout":null,"font-family":"黑体, SimHei"},"children":[{"data":{"id":"buo6vfjv2k00","created":1559980324228,"text":"分支主题"},"children":[]}]},{"data":{"id":"buo6w2j9vxc0","created":1559980374258,"text":"第三部分：产品"},"children":[{"data":{"id":"buo6wa9pbjs0","created":1559980391094,"text":"分支主题"},"children":[]}]}]},"template":"right","theme":"classic-compact","version":"1.4.43"}
+{
+    "root": {
+        "data": {
+            "id": "buo65ggf1ns0",
+            "created": 1559978288728,
+            "text": "启示录",
+            "progress": null,
+            "font-family": "黑体, SimHei",
+            "note": "打造用户喜爱的产品\n"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "buo677c3n7s0",
+                    "created": 1559978425604,
+                    "text": "笔记",
+                    "layout": null,
+                    "font-family": "黑体, SimHei"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "buo6kodtbuo0",
+                            "created": 1559979481447,
+                            "text": "产品的特性",
+                            "font-family": "黑体, SimHei"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "buo6krudnhc0",
+                                    "created": 1559979488979,
+                                    "text": "可复制",
+                                    "font-family": "黑体, SimHei"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buo6lo0haqo0",
+                                    "created": 1559979559005,
+                                    "text": "可行的",
+                                    "font-family": "黑体, SimHei"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buo6lulpxg80",
+                                    "created": 1559979573350,
+                                    "text": "可用的",
+                                    "font-family": "黑体, SimHei"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buo6lzmkvnk0",
+                                    "created": 1559979584286,
+                                    "text": "可比性",
+                                    "font-family": "黑体, SimHei"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buo6mc7yoj40",
+                                    "created": 1559979611700,
+                                    "text": "稳定性",
+                                    "font-family": "黑体, SimHei"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buo6or8f5ts0",
+                                    "created": 1559979801108,
+                                    "text": "具有经验产品的性质"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buo6p5cp58g0",
+                                    "created": 1559979831842,
+                                    "text": "具有公共物品的性质"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buo6me2qfw80",
+                                    "created": 1559979615738,
+                                    "text": "廉价",
+                                    "font-family": "黑体, SimHei"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buo6mgqfpu80",
+                                    "created": 1559979621524,
+                                    "text": "有价值的",
+                                    "font-family": "黑体, SimHei"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buo6qawci740",
+                                            "created": 1559979922278,
+                                            "text": "市场价值"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "buo6miewy5s0",
+                                    "created": 1559979625181,
+                                    "text": "有创意的",
+                                    "font-family": "黑体, SimHei"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buo6mkvk1k00",
+                                    "created": 1559979630541,
+                                    "text": "有生命的",
+                                    "font-family": "黑体, SimHei"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buo6mowu12g0",
+                                    "created": 1559979639326,
+                                    "text": "触及用户内心的",
+                                    "font-family": "黑体, SimHei"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "buo74yxl2hs0",
+                            "created": 1559981071694,
+                            "text": "本书主题"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "buo75lj81hk0",
+                                    "created": 1559981120891,
+                                    "text": "标准"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buo75otr8m80",
+                                            "created": 1559981128059,
+                                            "text": "鼓励思考。与工作密切相关。切实可行。"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "buo76rvnpfk0",
+                            "created": 1559981213068,
+                            "text": "好产品的规律",
+                            "note": "产品经理的任务是探索产品的价值，可用性，可行性。\n探索或者定义产品需要产品经理，交互设计师，软件架构师通力合作。\n开发人员不擅长用户体验设计，因为开发人员的脑子里想的是实现模型，而用户看重的是产品的概念模型。\n用户体验设计就是交互设计，视觉设计。对硬件设备来说是工业设计。\n功能（产品需求）和用户体验设计密不可分。\n产品创意必须尽早地，反复地接受目标用户的试用，以便获得有效的用户体验。\n为了验证产品的价值和可行性，必须尽早地，为了验证产品的价值和可行性，必须尽早地反复的请目标用户，测试产品创意。\n采用高保真的产品原型是全体团队成员了解用户需求和用户体验的最佳途径。\n产品经理的目标是在最短的时间内把握复杂的市场和用户需求，确定产品的基本要求——价值，可用性，可行性。\n一旦认定产品符合以上基本要求，它就是一个完整的概念，去掉任何元素都不可能达到预期的结果。"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "buo6jvolkjk0",
+                    "created": 1559979418973,
+                    "text": "前言",
+                    "font-family": "黑体, SimHei"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "buo67e7322w0",
+                    "created": 1559978440538,
+                    "text": "第一部分：人员",
+                    "layout": null,
+                    "font-family": "黑体, SimHei",
+                    "priority": null,
+                    "expandState": "expand",
+                    "note": "负责定义和开发产品的团队成员的角色和职责\n"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "buo6qwrkeu80",
+                            "created": 1559979969878,
+                            "text": "产品经理"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "buo6u7r05480",
+                                    "created": 1559980228881,
+                                    "text": "兼任：创始人、高层主管、主程序员、设计师"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buo6uy228rk0",
+                                    "created": 1559980286146,
+                                    "text": "职责",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buo6qz6zub40",
+                                            "created": 1559979975164,
+                                            "text": "定义产品"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo6rhosjqo0",
+                                            "created": 1559980015423,
+                                            "text": "管理产品"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "buo67gz3h0o0",
+                    "created": 1559978446586,
+                    "text": "第二部分：流程",
+                    "layout": null,
+                    "font-family": "黑体, SimHei",
+                    "note": "探索、开发富有创意的产品时，反复应用的步骤和成功的实践经验。"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "buo6vfjv2k00",
+                            "created": 1559980324228,
+                            "text": "分支主题"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "buo6w2j9vxc0",
+                    "created": 1559980374258,
+                    "text": "第三部分：产品",
+                    "note": "富有创意的产品具有鲜明的特征。"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "buo6wa9pbjs0",
+                            "created": 1559980391094,
+                            "text": "分支主题"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "classic-compact",
+    "version": "1.4.43"
+}
