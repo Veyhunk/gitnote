@@ -24,73 +24,9 @@
                         "children": [
                             {
                                 "data": {
-                                    "id": "buo6krudnhc0",
-                                    "created": 1559979488979,
-                                    "text": "可复制"
-                                },
-                                "children": []
-                            },
-                            {
-                                "data": {
-                                    "id": "buo6lo0haqo0",
-                                    "created": 1559979559005,
-                                    "text": "可行的"
-                                },
-                                "children": []
-                            },
-                            {
-                                "data": {
-                                    "id": "buo6lulpxg80",
-                                    "created": 1559979573350,
-                                    "text": "可用的"
-                                },
-                                "children": []
-                            },
-                            {
-                                "data": {
-                                    "id": "buo6lzmkvnk0",
-                                    "created": 1559979584286,
-                                    "text": "可比性"
-                                },
-                                "children": []
-                            },
-                            {
-                                "data": {
-                                    "id": "buo6mc7yoj40",
-                                    "created": 1559979611700,
-                                    "text": "稳定性"
-                                },
-                                "children": []
-                            },
-                            {
-                                "data": {
-                                    "id": "buo6or8f5ts0",
-                                    "created": 1559979801108,
-                                    "text": "具有经验产品的性质"
-                                },
-                                "children": []
-                            },
-                            {
-                                "data": {
-                                    "id": "buo6p5cp58g0",
-                                    "created": 1559979831842,
-                                    "text": "具有公共物品的性质"
-                                },
-                                "children": []
-                            },
-                            {
-                                "data": {
-                                    "id": "buo6me2qfw80",
-                                    "created": 1559979615738,
-                                    "text": "廉价"
-                                },
-                                "children": []
-                            },
-                            {
-                                "data": {
                                     "id": "buo6mgqfpu80",
                                     "created": 1559979621524,
-                                    "text": "有价值的"
+                                    "text": "有价值"
                                 },
                                 "children": [
                                     {
@@ -105,27 +41,103 @@
                             },
                             {
                                 "data": {
-                                    "id": "buo6miewy5s0",
-                                    "created": 1559979625181,
-                                    "text": "有创意的"
+                                    "id": "buo6lulpxg80",
+                                    "created": 1559979573350,
+                                    "text": "可用的"
                                 },
                                 "children": []
                             },
                             {
                                 "data": {
-                                    "id": "buo6mkvk1k00",
-                                    "created": 1559979630541,
-                                    "text": "有生命的"
+                                    "id": "buo6lo0haqo0",
+                                    "created": 1559979559005,
+                                    "text": "可行的"
                                 },
                                 "children": []
                             },
                             {
                                 "data": {
-                                    "id": "buo6mowu12g0",
-                                    "created": 1559979639326,
-                                    "text": "触及用户内心的"
+                                    "id": "buo6lzmkvnk0",
+                                    "created": 1559979584286,
+                                    "text": "可比性"
                                 },
                                 "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buo6p5cp58g0",
+                                    "created": 1559979831842,
+                                    "text": "具有公共物品的性质"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buo6or8f5ts0",
+                                    "created": 1559979801108,
+                                    "text": "具有经验产品的性质",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buo6krudnhc0",
+                                            "created": 1559979488979,
+                                            "text": "可复制"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo6mc7yoj40",
+                                            "created": 1559979611700,
+                                            "text": "稳定性"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo6me2qfw80",
+                                            "created": 1559979615738,
+                                            "text": "廉价"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "buo8x1kal3s0",
+                                    "created": 1559986092727,
+                                    "text": "好的产品",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buo6mowu12g0",
+                                            "created": 1559979639326,
+                                            "text": "触及用户内心的"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo6mkvk1k00",
+                                            "created": 1559979630541,
+                                            "text": "有生命的"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo6miewy5s0",
+                                            "created": 1559979625181,
+                                            "text": "有创意的"
+                                        },
+                                        "children": []
+                                    }
+                                ]
                             }
                         ]
                     },
@@ -325,6 +337,14 @@
                                                     "text": "管理产品"
                                                 },
                                                 "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buo8tn2uuvc0",
+                                                    "created": 1559985826105,
+                                                    "text": "面向开发团队"
+                                                },
+                                                "children": []
                                             }
                                         ]
                                     }
@@ -463,6 +483,14 @@
                                                     "text": "客户沟通、理解需求、进度控制、范围管理、成本管理、质量管理、风险管理、人力资源管理、采购管理"
                                                 },
                                                 "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buo8pykbt5k0",
+                                                    "created": 1559985537649,
+                                                    "text": "开发人员超过十人时、火车模型发布模式（周期经理）"
+                                                },
+                                                "children": []
                                             }
                                         ]
                                     }
@@ -543,6 +571,40 @@
                                                 "children": []
                                             }
                                         ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "buo8ufqzgf40",
+                            "created": 1559985888514,
+                            "text": "定义"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "buo8uieb5f40",
+                                    "created": 1559985894278,
+                                    "text": "产品经理与产品营销"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buo8uq814vs0",
+                                            "created": 1559985911313,
+                                            "text": "必须清晰界定"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buo8vm9l4k80",
+                                            "created": 1559985981064,
+                                            "text": "交换产品需求与市场营销信息"
+                                        },
+                                        "children": []
                                     }
                                 ]
                             }
