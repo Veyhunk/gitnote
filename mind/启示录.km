@@ -5,7 +5,6 @@
             "created": 1559978288728,
             "text": "启示录",
             "progress": null,
-            "font-family": "黑体, SimHei",
             "note": "打造用户喜爱的产品\n"
         },
         "children": [
@@ -14,24 +13,21 @@
                     "id": "buo677c3n7s0",
                     "created": 1559978425604,
                     "text": "笔记",
-                    "layout": null,
-                    "font-family": "黑体, SimHei"
+                    "layout": null
                 },
                 "children": [
                     {
                         "data": {
                             "id": "buo6kodtbuo0",
                             "created": 1559979481447,
-                            "text": "产品的特性",
-                            "font-family": "黑体, SimHei"
+                            "text": "产品的特性"
                         },
                         "children": [
                             {
                                 "data": {
                                     "id": "buo6krudnhc0",
                                     "created": 1559979488979,
-                                    "text": "可复制",
-                                    "font-family": "黑体, SimHei"
+                                    "text": "可复制"
                                 },
                                 "children": []
                             },
@@ -39,8 +35,7 @@
                                 "data": {
                                     "id": "buo6lo0haqo0",
                                     "created": 1559979559005,
-                                    "text": "可行的",
-                                    "font-family": "黑体, SimHei"
+                                    "text": "可行的"
                                 },
                                 "children": []
                             },
@@ -48,8 +43,7 @@
                                 "data": {
                                     "id": "buo6lulpxg80",
                                     "created": 1559979573350,
-                                    "text": "可用的",
-                                    "font-family": "黑体, SimHei"
+                                    "text": "可用的"
                                 },
                                 "children": []
                             },
@@ -57,8 +51,7 @@
                                 "data": {
                                     "id": "buo6lzmkvnk0",
                                     "created": 1559979584286,
-                                    "text": "可比性",
-                                    "font-family": "黑体, SimHei"
+                                    "text": "可比性"
                                 },
                                 "children": []
                             },
@@ -66,8 +59,7 @@
                                 "data": {
                                     "id": "buo6mc7yoj40",
                                     "created": 1559979611700,
-                                    "text": "稳定性",
-                                    "font-family": "黑体, SimHei"
+                                    "text": "稳定性"
                                 },
                                 "children": []
                             },
@@ -91,8 +83,7 @@
                                 "data": {
                                     "id": "buo6me2qfw80",
                                     "created": 1559979615738,
-                                    "text": "廉价",
-                                    "font-family": "黑体, SimHei"
+                                    "text": "廉价"
                                 },
                                 "children": []
                             },
@@ -100,8 +91,7 @@
                                 "data": {
                                     "id": "buo6mgqfpu80",
                                     "created": 1559979621524,
-                                    "text": "有价值的",
-                                    "font-family": "黑体, SimHei"
+                                    "text": "有价值的"
                                 },
                                 "children": [
                                     {
@@ -118,8 +108,7 @@
                                 "data": {
                                     "id": "buo6miewy5s0",
                                     "created": 1559979625181,
-                                    "text": "有创意的",
-                                    "font-family": "黑体, SimHei"
+                                    "text": "有创意的"
                                 },
                                 "children": []
                             },
@@ -127,8 +116,7 @@
                                 "data": {
                                     "id": "buo6mkvk1k00",
                                     "created": 1559979630541,
-                                    "text": "有生命的",
-                                    "font-family": "黑体, SimHei"
+                                    "text": "有生命的"
                                 },
                                 "children": []
                             },
@@ -136,8 +124,7 @@
                                 "data": {
                                     "id": "buo6mowu12g0",
                                     "created": 1559979639326,
-                                    "text": "触及用户内心的",
-                                    "font-family": "黑体, SimHei"
+                                    "text": "触及用户内心的"
                                 },
                                 "children": []
                             }
@@ -184,10 +171,19 @@
                 "data": {
                     "id": "buo6jvolkjk0",
                     "created": 1559979418973,
-                    "text": "前言",
-                    "font-family": "黑体, SimHei"
+                    "text": "前言"
                 },
-                "children": []
+                "children": [
+                    {
+                        "data": {
+                            "id": "buo7gft2eqg0",
+                            "created": 1559981970432,
+                            "text": "开发名词",
+                            "note": "机会评估（opportunity assessment）\n产品原则（product principle）\n产品策略（product strategy）\n产品路线图（product roadmap）\n产品说明文档（product spec）\n产品原型（prototype ）\n人物角色（persona）\n产品原型测试（prototype testing）\n\n"
+                        },
+                        "children": []
+                    }
+                ]
             },
             {
                 "data": {
@@ -195,7 +191,6 @@
                     "created": 1559978440538,
                     "text": "第一部分：人员",
                     "layout": null,
-                    "font-family": "黑体, SimHei",
                     "priority": null,
                     "expandState": "expand",
                     "note": "负责定义和开发产品的团队成员的角色和职责\n"
@@ -252,7 +247,6 @@
                     "created": 1559978446586,
                     "text": "第二部分：流程",
                     "layout": null,
-                    "font-family": "黑体, SimHei",
                     "note": "探索、开发富有创意的产品时，反复应用的步骤和成功的实践经验。"
                 },
                 "children": [
