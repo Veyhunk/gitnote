@@ -999,7 +999,7 @@
                         "data": {
                             "id": "buo7r3df9600",
                             "created": 1559982805370,
-                            "text": "招聘",
+                            "text": "招聘产品经理",
                             "expandState": "expand"
                         },
                         "children": [
@@ -1204,10 +1204,101 @@
                         "data": {
                             "id": "buo7r7hdd3k0",
                             "created": 1559982814316,
-                            "text": "管理",
+                            "text": "管理产品经理",
                             "expandState": "expand"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "buohale10yo0",
+                                    "created": 1560009723497,
+                                    "text": "建设产品管理团队"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buohhrib9mg0",
+                                            "created": 1560010285366,
+                                            "text": "培养一个新的产品经理。需要三个月"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "buohjit24bs0",
+                                                    "created": 1560010423153,
+                                                    "text": "找到有潜力、称职可信任的人选"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buohjzr5gig0",
+                                                    "created": 1560010460043,
+                                                    "text": "放手发挥其潜力。适当的监督和帮助"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buohhzj7w4g0",
+                                                    "created": 1560010302835,
+                                                    "text": "融入目标用户和客户群"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buohi9w5mlk0",
+                                                    "created": 1560010325385,
+                                                    "text": "学习相关技术"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buohicum7k80",
+                                                    "created": 1560010331822,
+                                                    "text": "了解市场和竞争局势"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buohil9wxj40",
+                                                    "created": 1560010350163,
+                                                    "text": "分对产品经理的技能和职责的培训"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buohkvcvdc00",
+                                            "created": 1560010528837,
+                                            "text": "授权给不称职的人，是推卸产品总监的责任"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buohl6y9u0o0",
+                                            "created": 1560010554075,
+                                            "text": "事必躬亲，是替他们承担责任"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "buohfwjz4qo0",
+                                    "created": 1560010139622,
+                                    "text": "规划公司产品战略"
+                                },
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             },
