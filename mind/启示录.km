@@ -14,7 +14,7 @@
                     "id": "buo677c3n7s0",
                     "created": 1559978425604,
                     "text": "笔记",
-                    "expandState": "expand"
+                    "expandState": "collapse"
                 },
                 "children": [
                     {
@@ -22,7 +22,7 @@
                             "id": "buo6kodtbuo0",
                             "created": 1559979481447,
                             "text": "产品的特性",
-                            "expandState": "expand"
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -209,7 +209,7 @@
                             "id": "buofjdqeq9k0",
                             "created": 1560004769889,
                             "text": "知识库",
-                            "expandState": "expand"
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -217,14 +217,15 @@
                                     "id": "buofjjnff9s0",
                                     "created": 1560004782770,
                                     "text": "代码需要重构",
-                                    "expandState": "collapse"
+                                    "expandState": "expand"
                                 },
                                 "children": [
                                     {
                                         "data": {
                                             "id": "buofjmaou680",
                                             "created": 1560004788530,
-                                            "text": "预留20%的时间重写代码、完善架构、更换平台"
+                                            "text": "预留20%的时间重写代码、完善架构、更换平台",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -232,7 +233,8 @@
                                         "data": {
                                             "id": "buog3d42t280",
                                             "created": 1560006335822,
-                                            "text": "一、制定计划和时间表"
+                                            "text": "一、制定计划和时间表",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -240,7 +242,8 @@
                                         "data": {
                                             "id": "buog3ptdfj40",
                                             "created": 1560006363473,
-                                            "text": "二、细分任务递增修改"
+                                            "text": "二、细分任务递增修改",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -248,7 +251,8 @@
                                         "data": {
                                             "id": "buog47pd9v40",
                                             "created": 1560006402413,
-                                            "text": "三、确保产品定义的正确性"
+                                            "text": "三、确保产品定义的正确性",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     }
@@ -258,7 +262,8 @@
                                 "data": {
                                     "id": "buog5ecgsfk0",
                                     "created": 1560006495234,
-                                    "text": "项目的外包与远程开发"
+                                    "text": "项目的外包与远程开发",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -266,7 +271,8 @@
                                 "data": {
                                     "id": "buog5k27boo0",
                                     "created": 1560006507675,
-                                    "text": "分支主题"
+                                    "text": "分支主题",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             }
@@ -279,7 +285,7 @@
                     "id": "buo6jvolkjk0",
                     "created": 1559979418973,
                     "text": "前言",
-                    "expandState": "expand"
+                    "expandState": "collapse"
                 },
                 "children": [
                     {
@@ -318,7 +324,7 @@
                             "id": "buo7qw6h54o0",
                             "created": 1559982789713,
                             "text": "关键角色",
-                            "expandState": "expand"
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -358,7 +364,8 @@
                                                         "data": {
                                                             "id": "buo7u2alekg0",
                                                             "created": 1559983038115,
-                                                            "text": "收集需求和创意"
+                                                            "text": "收集需求和创意",
+                                                            "expandState": "expand"
                                                         },
                                                         "children": []
                                                     },
@@ -366,7 +373,8 @@
                                                         "data": {
                                                             "id": "buo7ub8wokg0",
                                                             "created": 1559983057604,
-                                                            "text": "审核需求"
+                                                            "text": "审核需求",
+                                                            "expandState": "expand"
                                                         },
                                                         "children": []
                                                     },
@@ -375,7 +383,8 @@
                                                             "id": "buo7x506kgw0",
                                                             "created": 1559983279108,
                                                             "text": "需求文档",
-                                                            "note": "（产品的说明文档、功能说明文档）\n清晰地描述产品的功能和属性，避免讨论产品的实现方法。"
+                                                            "note": "（产品的说明文档、功能说明文档）\n清晰地描述产品的功能和属性，避免讨论产品的实现方法。",
+                                                            "expandState": "expand"
                                                         },
                                                         "children": []
                                                     }
@@ -393,7 +402,8 @@
                                                         "data": {
                                                             "id": "buo7uih79m80",
                                                             "created": 1559983073343,
-                                                            "text": "探索产品的解决方案"
+                                                            "text": "探索产品的解决方案",
+                                                            "expandState": "expand"
                                                         },
                                                         "children": []
                                                     },
@@ -401,7 +411,8 @@
                                                         "data": {
                                                             "id": "buo7uofsalc0",
                                                             "created": 1559983086318,
-                                                            "text": "特征"
+                                                            "text": "特征",
+                                                            "expandState": "expand"
                                                         },
                                                         "children": []
                                                     },
@@ -409,7 +420,8 @@
                                                         "data": {
                                                             "id": "buo7ur92iuw0",
                                                             "created": 1559983092442,
-                                                            "text": "功能"
+                                                            "text": "功能",
+                                                            "expandState": "expand"
                                                         },
                                                         "children": []
                                                     },
@@ -417,7 +429,8 @@
                                                         "data": {
                                                             "id": "buo7v641ipc0",
                                                             "created": 1559983124790,
-                                                            "text": "用户体验"
+                                                            "text": "用户体验",
+                                                            "expandState": "expand"
                                                         },
                                                         "children": []
                                                     },
@@ -425,7 +438,8 @@
                                                         "data": {
                                                             "id": "buo7vc3yrj40",
                                                             "created": 1559983137846,
-                                                            "text": "发布的标准"
+                                                            "text": "发布的标准",
+                                                            "expandState": "expand"
                                                         },
                                                         "children": []
                                                     }
@@ -773,7 +787,7 @@
                             "id": "buo8ufqzgf40",
                             "created": 1559985888514,
                             "text": "对比",
-                            "expandState": "expand"
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -909,7 +923,7 @@
                                     "id": "buo9igd6mfc0",
                                     "created": 1559987770596,
                                     "text": "产品经理与产品设计",
-                                    "expandState": "collapse"
+                                    "expandState": "expand"
                                 },
                                 "children": [
                                     {
@@ -1093,7 +1107,8 @@
                                         "data": {
                                             "id": "buog6mofz1c0",
                                             "created": 1560006591737,
-                                            "text": "个人素质和态度"
+                                            "text": "个人素质和态度",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1101,7 +1116,8 @@
                                         "data": {
                                             "id": "buog6w473h40",
                                             "created": 1560006612281,
-                                            "text": "对产品的热情"
+                                            "text": "对产品的热情",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1109,7 +1125,8 @@
                                         "data": {
                                             "id": "buog6zh526g0",
                                             "created": 1560006619594,
-                                            "text": "用户立场"
+                                            "text": "用户立场",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1117,7 +1134,8 @@
                                         "data": {
                                             "id": "buog72vf6zc0",
                                             "created": 1560006626988,
-                                            "text": "智力"
+                                            "text": "智力",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1125,7 +1143,8 @@
                                         "data": {
                                             "id": "buog75mcttk0",
                                             "created": 1560006632970,
-                                            "text": "职业操守"
+                                            "text": "职业操守",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1133,7 +1152,8 @@
                                         "data": {
                                             "id": "buog7apjduo0",
                                             "created": 1560006644046,
-                                            "text": "正直"
+                                            "text": "正直",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1141,7 +1161,8 @@
                                         "data": {
                                             "id": "buog7zy0uxs0",
                                             "created": 1560006698979,
-                                            "text": "信心"
+                                            "text": "信心",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1149,7 +1170,8 @@
                                         "data": {
                                             "id": "buog8t3l1e80",
                                             "created": 1560006762442,
-                                            "text": "态度"
+                                            "text": "态度",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1157,7 +1179,8 @@
                                         "data": {
                                             "id": "buog8wutc740",
                                             "created": 1560006770618,
-                                            "text": "技能"
+                                            "text": "技能",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1165,7 +1188,8 @@
                                         "data": {
                                             "id": "buog91jasc80",
                                             "created": 1560006780806,
-                                            "text": "运用技术的能力"
+                                            "text": "运用技术的能力",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1173,7 +1197,8 @@
                                         "data": {
                                             "id": "buog956c6fk0",
                                             "created": 1560006788730,
-                                            "text": "注意力"
+                                            "text": "注意力",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1181,7 +1206,8 @@
                                         "data": {
                                             "id": "buog97um6bk0",
                                             "created": 1560006794551,
-                                            "text": "时间管理"
+                                            "text": "时间管理",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1189,7 +1215,8 @@
                                         "data": {
                                             "id": "buog9bfqryw0",
                                             "created": 1560006802359,
-                                            "text": "沟通技能"
+                                            "text": "沟通技能",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1197,7 +1224,8 @@
                                         "data": {
                                             "id": "buog9gb5kvc0",
                                             "created": 1560006812965,
-                                            "text": "商业技能"
+                                            "text": "商业技能",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     }
@@ -1207,7 +1235,8 @@
                                 "data": {
                                     "id": "buogdq76k1c0",
                                     "created": 1560007147950,
-                                    "text": "寻找具有上述特质的人，培养他"
+                                    "text": "寻找具有上述特质的人，培养他",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -1215,14 +1244,16 @@
                                 "data": {
                                     "id": "buoh7jn7bmo0",
                                     "created": 1560009484606,
-                                    "text": "最宝贵的经验"
+                                    "text": "最宝贵的经验",
+                                    "expandState": "expand"
                                 },
                                 "children": [
                                     {
                                         "data": {
                                             "id": "buoh7sl4g600",
                                             "created": 1560009504071,
-                                            "text": "打造优秀产品的流程"
+                                            "text": "打造优秀产品的流程",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1230,7 +1261,8 @@
                                         "data": {
                                             "id": "buoh7wa01ds0",
                                             "created": 1560009512106,
-                                            "text": "领导产品团队的能力"
+                                            "text": "领导产品团队的能力",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1238,7 +1270,8 @@
                                         "data": {
                                             "id": "buoh80svg6w0",
                                             "created": 1560009521954,
-                                            "text": "应对产品扩张的经验"
+                                            "text": "应对产品扩张的经验",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1246,7 +1279,8 @@
                                         "data": {
                                             "id": "buoh842wiow0",
                                             "created": 1560009529091,
-                                            "text": "个人对自己的认知"
+                                            "text": "个人对自己的认知",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1254,7 +1288,8 @@
                                         "data": {
                                             "id": "buoh87ofci00",
                                             "created": 1560009536923,
-                                            "text": "自我激励的能力"
+                                            "text": "自我激励的能力",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     }
@@ -1264,7 +1299,8 @@
                                 "data": {
                                     "id": "buoh8uyz88w0",
                                     "created": 1560009587627,
-                                    "text": "关注学习的思路，而不是已经掌握的知识"
+                                    "text": "关注学习的思路，而不是已经掌握的知识",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -1272,7 +1308,8 @@
                                 "data": {
                                     "id": "buoh91aicb40",
                                     "created": 1560009601385,
-                                    "text": "研发产品前学习哪些知识，用了多少时间？如何利用这些知识。"
+                                    "text": "研发产品前学习哪些知识，用了多少时间？如何利用这些知识。",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             }
@@ -1298,7 +1335,8 @@
                                         "data": {
                                             "id": "buotvliznbs0",
                                             "created": 1560045222763,
-                                            "text": "训练和培养产品管理团队"
+                                            "text": "训练和培养产品管理团队",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1306,7 +1344,8 @@
                                         "data": {
                                             "id": "buotqixl9bk0",
                                             "created": 1560044825295,
-                                            "text": "负责公司的系列产品"
+                                            "text": "负责公司的系列产品",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1314,7 +1353,8 @@
                                         "data": {
                                             "id": "buotssfpbrs0",
                                             "created": 1560045002710,
-                                            "text": "决定公司经营什么产品"
+                                            "text": "决定公司经营什么产品",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1322,7 +1362,8 @@
                                         "data": {
                                             "id": "buotsxusxhc0",
                                             "created": 1560045014507,
-                                            "text": "评审每款产品的产品战略和研发流程"
+                                            "text": "评审每款产品的产品战略和研发流程",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1330,7 +1371,8 @@
                                         "data": {
                                             "id": "buotwf2fmc80",
                                             "created": 1560045287066,
-                                            "text": "处理产品管理团队之间的冲突"
+                                            "text": "处理产品管理团队之间的冲突",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1338,7 +1380,8 @@
                                         "data": {
                                             "id": "buotwnzltz40",
                                             "created": 1560045306486,
-                                            "text": "处理好上下级关系，取得上级信任"
+                                            "text": "处理好上下级关系，取得上级信任",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1346,7 +1389,8 @@
                                         "data": {
                                             "id": "buotwxujkyg0",
                                             "created": 1560045327948,
-                                            "text": "礼贤下士，集思广益，决策有理有据，公开透明，受人尊重"
+                                            "text": "礼贤下士，集思广益，决策有理有据，公开透明，受人尊重",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     }
@@ -1372,7 +1416,8 @@
                                                 "data": {
                                                     "id": "buohjit24bs0",
                                                     "created": 1560010423153,
-                                                    "text": "找到有潜力、称职可信任的人选"
+                                                    "text": "找到有潜力、称职可信任的人选",
+                                                    "expandState": "expand"
                                                 },
                                                 "children": []
                                             },
@@ -1380,7 +1425,8 @@
                                                 "data": {
                                                     "id": "buohjzr5gig0",
                                                     "created": 1560010460043,
-                                                    "text": "放手发挥其潜力。适当的监督和帮助"
+                                                    "text": "放手发挥其潜力。适当的监督和帮助",
+                                                    "expandState": "expand"
                                                 },
                                                 "children": []
                                             },
@@ -1388,7 +1434,8 @@
                                                 "data": {
                                                     "id": "buohhzj7w4g0",
                                                     "created": 1560010302835,
-                                                    "text": "融入目标用户和客户群"
+                                                    "text": "融入目标用户和客户群",
+                                                    "expandState": "expand"
                                                 },
                                                 "children": []
                                             },
@@ -1396,7 +1443,8 @@
                                                 "data": {
                                                     "id": "buohi9w5mlk0",
                                                     "created": 1560010325385,
-                                                    "text": "学习相关技术"
+                                                    "text": "学习相关技术",
+                                                    "expandState": "expand"
                                                 },
                                                 "children": []
                                             },
@@ -1404,7 +1452,8 @@
                                                 "data": {
                                                     "id": "buohicum7k80",
                                                     "created": 1560010331822,
-                                                    "text": "了解市场和竞争局势"
+                                                    "text": "了解市场和竞争局势",
+                                                    "expandState": "expand"
                                                 },
                                                 "children": []
                                             },
@@ -1412,7 +1461,8 @@
                                                 "data": {
                                                     "id": "buohil9wxj40",
                                                     "created": 1560010350163,
-                                                    "text": "分对产品经理的技能和职责的培训"
+                                                    "text": "分对产品经理的技能和职责的培训",
+                                                    "expandState": "expand"
                                                 },
                                                 "children": []
                                             }
@@ -1422,7 +1472,8 @@
                                         "data": {
                                             "id": "buohkvcvdc00",
                                             "created": 1560010528837,
-                                            "text": "授权给不称职的人，是推卸产品总监的责任"
+                                            "text": "授权给不称职的人，是推卸产品总监的责任",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1430,7 +1481,8 @@
                                         "data": {
                                             "id": "buohl6y9u0o0",
                                             "created": 1560010554075,
-                                            "text": "事必躬亲，是替他们承担责任"
+                                            "text": "事必躬亲，是替他们承担责任",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1438,14 +1490,16 @@
                                         "data": {
                                             "id": "buou6rmzmdc0",
                                             "created": 1560046098072,
-                                            "text": "产品管理部门与开发部门市场部门级别相同"
+                                            "text": "产品管理部门与开发部门市场部门级别相同",
+                                            "expandState": "expand"
                                         },
                                         "children": [
                                             {
                                                 "data": {
                                                     "id": "buou7n35bo80",
                                                     "created": 1560046166529,
-                                                    "text": "产品既不是有技术驱动，也不仅仅由销售和市场需求决定"
+                                                    "text": "产品既不是有技术驱动，也不仅仅由销售和市场需求决定",
+                                                    "expandState": "expand"
                                                 },
                                                 "children": []
                                             }
@@ -1465,7 +1519,8 @@
                                         "data": {
                                             "id": "buotttuxyao0",
                                             "created": 1560045084172,
-                                            "text": "透彻理解公司最新的商业战略"
+                                            "text": "透彻理解公司最新的商业战略",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1473,7 +1528,8 @@
                                         "data": {
                                             "id": "buotu56xlkg0",
                                             "created": 1560045108842,
-                                            "text": "确保产品战略直接支持商业战略"
+                                            "text": "确保产品战略直接支持商业战略",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1481,7 +1537,8 @@
                                         "data": {
                                             "id": "buotughdon40",
                                             "created": 1560045133418,
-                                            "text": "与产品经理一旦完成产品规划"
+                                            "text": "与产品经理一旦完成产品规划",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1489,7 +1546,8 @@
                                         "data": {
                                             "id": "buotult7rmg0",
                                             "created": 1560045145018,
-                                            "text": "共同实现规划"
+                                            "text": "共同实现规划",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1497,7 +1555,8 @@
                                         "data": {
                                             "id": "buotuq4j7iw0",
                                             "created": 1560045154409,
-                                            "text": "带领产品团队建立原则"
+                                            "text": "带领产品团队建立原则",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1505,7 +1564,8 @@
                                         "data": {
                                             "id": "buotuy0hpd40",
                                             "created": 1560045171579,
-                                            "text": "坚持按产品原则研发产品"
+                                            "text": "坚持按产品原则研发产品",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     }
@@ -1515,21 +1575,24 @@
                                 "data": {
                                     "id": "buou06tkxsg0",
                                     "created": 1560045582573,
-                                    "text": "评估产品经理的工作"
+                                    "text": "评估产品经理的工作",
+                                    "expandState": "expand"
                                 },
                                 "children": [
                                     {
                                         "data": {
                                             "id": "buou0n1bmwo0",
                                             "created": 1560045617870,
-                                            "text": "用户净推荐值（Net promoter score，NPS）"
+                                            "text": "用户净推荐值（Net promoter score，NPS）",
+                                            "expandState": "expand"
                                         },
                                         "children": [
                                             {
                                                 "data": {
                                                     "id": "buou21wvf1s0",
                                                     "created": 1560045728616,
-                                                    "text": "反应了产品的用户体验水平"
+                                                    "text": "反应了产品的用户体验水平",
+                                                    "expandState": "expand"
                                                 },
                                                 "children": []
                                             },
@@ -1537,7 +1600,8 @@
                                                 "data": {
                                                     "id": "buou2bjer8w0",
                                                     "created": 1560045749570,
-                                                    "text": "口碑营销是最有效，成本最低的营销方式"
+                                                    "text": "口碑营销是最有效，成本最低的营销方式",
+                                                    "expandState": "expand"
                                                 },
                                                 "children": []
                                             }
@@ -1559,7 +1623,8 @@
                                 "data": {
                                     "id": "buou9cw7kbk0",
                                     "created": 1560046301070,
-                                    "text": "永远不要告诉别人怎么做，告诉他们做什么，他们自然会发挥天赋，给你惊喜。"
+                                    "text": "永远不要告诉别人怎么做，告诉他们做什么，他们自然会发挥天赋，给你惊喜。",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -1567,7 +1632,8 @@
                                 "data": {
                                     "id": "buouadb1ix40",
                                     "created": 1560046380331,
-                                    "text": "给予用户体验设计师和开发人员足够的创作空间"
+                                    "text": "给予用户体验设计师和开发人员足够的创作空间",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             }
@@ -1585,7 +1651,8 @@
                                 "data": {
                                     "id": "buoubhgyb0w0",
                                     "created": 1560046467760,
-                                    "text": "聪明绝顶"
+                                    "text": "聪明绝顶",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -1593,7 +1660,8 @@
                                 "data": {
                                     "id": "buoub3mvau80",
                                     "created": 1560046437644,
-                                    "text": "深入同事"
+                                    "text": "深入同事",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -1601,7 +1669,8 @@
                                 "data": {
                                     "id": "buouba9zazk0",
                                     "created": 1560046452101,
-                                    "text": "开放的态度"
+                                    "text": "开放的态度",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -1609,7 +1678,8 @@
                                 "data": {
                                     "id": "buouc9iqzsg0",
                                     "created": 1560046528818,
-                                    "text": "动用所有的人所有的力量，打造卓越的产品"
+                                    "text": "动用所有的人所有的力量，打造卓越的产品",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             }
@@ -1627,7 +1697,8 @@
                                 "data": {
                                     "id": "buoucxhnom80",
                                     "created": 1560046580995,
-                                    "text": "为项目活动做好准备"
+                                    "text": "为项目活动做好准备",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -1635,7 +1706,8 @@
                                 "data": {
                                     "id": "buoud2vi9go0",
                                     "created": 1560046592716,
-                                    "text": "注意沟通的方式与频率"
+                                    "text": "注意沟通的方式与频率",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -1643,7 +1715,8 @@
                                 "data": {
                                     "id": "buoud6zye6o0",
                                     "created": 1560046601693,
-                                    "text": "会前沟通"
+                                    "text": "会前沟通",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -1651,7 +1724,8 @@
                                 "data": {
                                     "id": "buouda61vz40",
                                     "created": 1560046608592,
-                                    "text": "多提建议，少谈问题"
+                                    "text": "多提建议，少谈问题",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -1659,7 +1733,8 @@
                                 "data": {
                                     "id": "buoude7qojs0",
                                     "created": 1560046617401,
-                                    "text": "向上司借力"
+                                    "text": "向上司借力",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -1667,7 +1742,8 @@
                                 "data": {
                                     "id": "buoudh3phk00",
                                     "created": 1560046623687,
-                                    "text": "充分准备"
+                                    "text": "充分准备",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -1675,7 +1751,8 @@
                                 "data": {
                                     "id": "buoudk4i5540",
                                     "created": 1560046630266,
-                                    "text": "缩短篇幅"
+                                    "text": "缩短篇幅",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -1683,7 +1760,8 @@
                                 "data": {
                                     "id": "buoudxpsnls0",
                                     "created": 1560046659851,
-                                    "text": "用数据和事实说话"
+                                    "text": "用数据和事实说话",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -1691,7 +1769,8 @@
                                 "data": {
                                     "id": "buoue1oy49s0",
                                     "created": 1560046668507,
-                                    "text": "内部宣传产品"
+                                    "text": "内部宣传产品",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -1699,7 +1778,8 @@
                                 "data": {
                                     "id": "buoue5enz9k0",
                                     "created": 1560046676593,
-                                    "text": "做让领导省心的员工"
+                                    "text": "做让领导省心的员工",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             }
@@ -1729,7 +1809,8 @@
                         "data": {
                             "id": "buoukso87480",
                             "created": 1560047197422,
-                            "text": "产品探索"
+                            "text": "产品探索",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1737,7 +1818,8 @@
                         "data": {
                             "id": "buoukv4orpk0",
                             "created": 1560047202771,
-                            "text": "产品原则"
+                            "text": "产品原则",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1745,7 +1827,8 @@
                         "data": {
                             "id": "buoukxvdoqo0",
                             "created": 1560047208738,
-                            "text": "产品陪审团"
+                            "text": "产品陪审团",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1753,7 +1836,8 @@
                         "data": {
                             "id": "buoul0eh4d40",
                             "created": 1560047214246,
-                            "text": "特约用户"
+                            "text": "特约用户",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1761,7 +1845,8 @@
                         "data": {
                             "id": "buoul3dy57k0",
                             "created": 1560047220745,
-                            "text": "市场调研"
+                            "text": "市场调研",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1769,7 +1854,8 @@
                         "data": {
                             "id": "buoul6qr1zs0",
                             "created": 1560047228049,
-                            "text": "产品人物角色"
+                            "text": "产品人物角色",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1777,7 +1863,8 @@
                         "data": {
                             "id": "buoule9bw340",
                             "created": 1560047244410,
-                            "text": "重新定义产品说明文档"
+                            "text": "重新定义产品说明文档",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1785,7 +1872,8 @@
                         "data": {
                             "id": "buoulhdhun40",
                             "created": 1560047251192,
-                            "text": "用户体验设计与实现"
+                            "text": "用户体验设计与实现",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1793,7 +1881,8 @@
                         "data": {
                             "id": "buoulkync2o0",
                             "created": 1560047259002,
-                            "text": "基本产品"
+                            "text": "基本产品",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1801,7 +1890,8 @@
                         "data": {
                             "id": "buoulnvs0vc0",
                             "created": 1560047265359,
-                            "text": "产品验证"
+                            "text": "产品验证",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1809,7 +1899,8 @@
                         "data": {
                             "id": "buoulq9x5eo0",
                             "created": 1560047270567,
-                            "text": "原型测试"
+                            "text": "原型测试",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1817,7 +1908,8 @@
                         "data": {
                             "id": "buoum40wm940",
                             "created": 1560047300497,
-                            "text": "改进现有产品"
+                            "text": "改进现有产品",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1825,7 +1917,8 @@
                         "data": {
                             "id": "buoum6z2n880",
                             "created": 1560047306917,
-                            "text": "平滑部署"
+                            "text": "平滑部署",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1833,7 +1926,8 @@
                         "data": {
                             "id": "buoumj4zyk00",
                             "created": 1560047333396,
-                            "text": "快速响应阶段"
+                            "text": "快速响应阶段",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1841,7 +1935,8 @@
                         "data": {
                             "id": "buoumn6t8680",
                             "created": 1560047342213,
-                            "text": "合理运用敏捷方法"
+                            "text": "合理运用敏捷方法",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1849,7 +1944,8 @@
                         "data": {
                             "id": "buoumq4jen40",
                             "created": 1560047348606,
-                            "text": "合理运用瀑布式开发方法"
+                            "text": "合理运用瀑布式开发方法",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1857,7 +1953,8 @@
                         "data": {
                             "id": "buoumtmf60g0",
                             "created": 1560047356218,
-                            "text": "创业型公司的产品管理"
+                            "text": "创业型公司的产品管理",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1865,7 +1962,8 @@
                         "data": {
                             "id": "buoumwqe7dk0",
                             "created": 1560047362988,
-                            "text": "大公司如何创新？"
+                            "text": "大公司如何创新？",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1873,7 +1971,8 @@
                         "data": {
                             "id": "buoumzveap40",
                             "created": 1560047369821,
-                            "text": "在大公司施展拳脚"
+                            "text": "在大公司施展拳脚",
+                            "expandState": "expand"
                         },
                         "children": []
                     }
@@ -1892,7 +1991,8 @@
                         "data": {
                             "id": "buour58c27c0",
                             "created": 1560047694944,
-                            "text": "苹果公司给我的启示"
+                            "text": "苹果公司给我的启示",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1900,7 +2000,8 @@
                         "data": {
                             "id": "buourc7crlc0",
                             "created": 1560047710122,
-                            "text": "提防有特殊要求的产品"
+                            "text": "提防有特殊要求的产品",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1908,7 +2009,8 @@
                         "data": {
                             "id": "buouroo0k600",
                             "created": 1560047737251,
-                            "text": "新瓶装老酒"
+                            "text": "新瓶装老酒",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1916,7 +2018,8 @@
                         "data": {
                             "id": "buourrdwbv40",
                             "created": 1560047743170,
-                            "text": "恐惧，贪婪，欲望"
+                            "text": "恐惧，贪婪，欲望",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1924,7 +2027,8 @@
                         "data": {
                             "id": "buourujorug0",
                             "created": 1560047750050,
-                            "text": "情感接纳曲线"
+                            "text": "情感接纳曲线",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1932,7 +2036,8 @@
                         "data": {
                             "id": "buourxlmt3s0",
                             "created": 1560047756698,
-                            "text": "可用性与美感"
+                            "text": "可用性与美感",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1940,7 +2045,8 @@
                         "data": {
                             "id": "buous0cw5v40",
                             "created": 1560047762700,
-                            "text": "大众网络服务产品"
+                            "text": "大众网络服务产品",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1948,7 +2054,8 @@
                         "data": {
                             "id": "buous3g0nls0",
                             "created": 1560047769419,
-                            "text": "打造企业级产品经验"
+                            "text": "打造企业级产品经验",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -1956,7 +2063,8 @@
                         "data": {
                             "id": "buous6oudow0",
                             "created": 1560047776483,
-                            "text": "打造平台产品的经验"
+                            "text": "打造平台产品的经验",
+                            "expandState": "expand"
                         },
                         "children": []
                     }
@@ -1966,28 +2074,32 @@
                 "data": {
                     "id": "buous9lktb40",
                     "created": 1560047782816,
-                    "text": "总结"
+                    "text": "总结",
+                    "expandState": "collapse"
                 },
                 "children": [
                     {
                         "data": {
                             "id": "buousbwyr2g0",
                             "created": 1560047787858,
-                            "text": "最佳实践经验"
+                            "text": "最佳实践经验",
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
                                 "data": {
                                     "id": "buoutctj0zc0",
                                     "created": 1560047868191,
-                                    "text": "十大要点"
+                                    "text": "十大要点",
+                                    "expandState": "expand"
                                 },
                                 "children": [
                                     {
                                         "data": {
                                             "id": "buoutjv9fhc0",
                                             "created": 1560047883534,
-                                            "text": "产品管理的职责"
+                                            "text": "产品管理的职责",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -1995,7 +2107,8 @@
                                         "data": {
                                             "id": "buoutndbkxc0",
                                             "created": 1560047891156,
-                                            "text": "用户体验"
+                                            "text": "用户体验",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -2003,7 +2116,8 @@
                                         "data": {
                                             "id": "buoutphqjd40",
                                             "created": 1560047895776,
-                                            "text": "机会评估"
+                                            "text": "机会评估",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -2011,7 +2125,8 @@
                                         "data": {
                                             "id": "buoutrv0vq80",
                                             "created": 1560047900933,
-                                            "text": "特约用户"
+                                            "text": "特约用户",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -2019,7 +2134,8 @@
                                         "data": {
                                             "id": "buoutvbhhqo0",
                                             "created": 1560047908459,
-                                            "text": "产品原则"
+                                            "text": "产品原则",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -2027,7 +2143,8 @@
                                         "data": {
                                             "id": "buoutxtifds0",
                                             "created": 1560047913903,
-                                            "text": "人物角色"
+                                            "text": "人物角色",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -2035,7 +2152,8 @@
                                         "data": {
                                             "id": "buouu6mv40g0",
                                             "created": 1560047933092,
-                                            "text": "探索（定义）产品"
+                                            "text": "探索（定义）产品",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -2043,7 +2161,8 @@
                                         "data": {
                                             "id": "buouucx77yo0",
                                             "created": 1560047946777,
-                                            "text": "使用原型"
+                                            "text": "使用原型",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -2051,7 +2170,8 @@
                                         "data": {
                                             "id": "buouugzc95s0",
                                             "created": 1560047955614,
-                                            "text": "用户参与原型测试"
+                                            "text": "用户参与原型测试",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -2059,7 +2179,8 @@
                                         "data": {
                                             "id": "buouul0xrqo0",
                                             "created": 1560047964418,
-                                            "text": "根据数据改进产品"
+                                            "text": "根据数据改进产品",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     }
@@ -2071,21 +2192,24 @@
                         "data": {
                             "id": "buousfs0su00",
                             "created": 1560047796266,
-                            "text": "产品经理的反思清单"
+                            "text": "产品经理的反思清单",
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
                                 "data": {
                                     "id": "buouuqvvs7k0",
                                     "created": 1560047977173,
-                                    "text": "十大问题"
+                                    "text": "十大问题",
+                                    "expandState": "expand"
                                 },
                                 "children": [
                                     {
                                         "data": {
                                             "id": "buouuubk2jk0",
                                             "created": 1560047984651,
-                                            "text": "产品能吸引目标消费的关注吗？"
+                                            "text": "产品能吸引目标消费的关注吗？",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -2093,7 +2217,8 @@
                                         "data": {
                                             "id": "buouv2b20tc0",
                                             "created": 1560048002035,
-                                            "text": "产品的设计是否人性化，是否易于操作？"
+                                            "text": "产品的设计是否人性化，是否易于操作？",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -2101,7 +2226,8 @@
                                         "data": {
                                             "id": "buouwmplzds0",
                                             "created": 1560048124815,
-                                            "text": "产品能在竞争中取胜嘛，即使面对未来风云变化的市场，依旧有取胜的把握吗？"
+                                            "text": "产品能在竞争中取胜嘛，即使面对未来风云变化的市场，依旧有取胜的把握吗？",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -2109,7 +2235,8 @@
                                         "data": {
                                             "id": "bupae1aon880",
                                             "created": 1560091805403,
-                                            "text": "我了解目标客户吗？产品是否能得到他们的认可？"
+                                            "text": "我了解目标客户吗？产品是否能得到他们的认可？",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -2117,7 +2244,8 @@
                                         "data": {
                                             "id": "bupae627w680",
                                             "created": 1560091815775,
-                                            "text": "产品是否有别于市面上的其他产品，我能在两分钟内向公司高管清楚的阐明这些差别么？能在一分钟内将客户清楚解释吗？能在半分钟内向经验丰富的行业分析师解释清楚吗？"
+                                            "text": "产品是否有别于市面上的其他产品，我能在两分钟内向公司高管清楚的阐明这些差别么？能在一分钟内将客户清楚解释吗？能在半分钟内向经验丰富的行业分析师解释清楚吗？",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -2125,7 +2253,8 @@
                                         "data": {
                                             "id": "bupaehrdols0",
                                             "created": 1560091841241,
-                                            "text": "产品能正常运行吗？"
+                                            "text": "产品能正常运行吗？",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -2133,7 +2262,8 @@
                                         "data": {
                                             "id": "bupaekr4mc80",
                                             "created": 1560091847756,
-                                            "text": "产品是否完整？用户对产品的印象如何？销售业绩如何？销售任务能否顺利完成？"
+                                            "text": "产品是否完整？用户对产品的印象如何？销售业绩如何？销售任务能否顺利完成？",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -2141,7 +2271,8 @@
                                         "data": {
                                             "id": "bupaetlioq80",
                                             "created": 1560091867008,
-                                            "text": "产品的特色是否以目标用户的需求一致，产品特色是否鲜明？"
+                                            "text": "产品的特色是否以目标用户的需求一致，产品特色是否鲜明？",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -2149,7 +2280,8 @@
                                         "data": {
                                             "id": "bupaez7mrc80",
                                             "created": 1560091879229,
-                                            "text": "产品值钱吗？值多少钱？为什么值这么多钱？用户会选择更便宜的产品吗？ "
+                                            "text": "产品值钱吗？值多少钱？为什么值这么多钱？用户会选择更便宜的产品吗？ ",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -2157,7 +2289,8 @@
                                         "data": {
                                             "id": "bupaf4egryw0",
                                             "created": 1560091890526,
-                                            "text": "我了解其他团队成员对产品的看法嘛，他们觉得产品好在哪里，他们的看法是否与我的观点一致。"
+                                            "text": "我了解其他团队成员对产品的看法嘛，他们觉得产品好在哪里，他们的看法是否与我的观点一致。",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     }
@@ -2172,4 +2305,4 @@
     "template": "right",
     "theme": "classic-compact",
     "version": "1.4.43"
-}Î
+}
