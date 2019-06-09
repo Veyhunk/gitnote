@@ -1210,16 +1210,84 @@
                         "children": [
                             {
                                 "data": {
+                                    "id": "buotrwdf2rk0",
+                                    "created": 1560044932915,
+                                    "text": "（产品总监）",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buotvliznbs0",
+                                            "created": 1560045222763,
+                                            "text": "训练和培养产品管理团队"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buotqixl9bk0",
+                                            "created": 1560044825295,
+                                            "text": "负责公司的系列产品"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buotssfpbrs0",
+                                            "created": 1560045002710,
+                                            "text": "决定公司经营什么产品"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buotsxusxhc0",
+                                            "created": 1560045014507,
+                                            "text": "评审每款产品的产品战略和研发流程"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buotwf2fmc80",
+                                            "created": 1560045287066,
+                                            "text": "处理产品管理团队之间的冲突"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buotwnzltz40",
+                                            "created": 1560045306486,
+                                            "text": "处理好上下级关系，取得上级信任"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buotwxujkyg0",
+                                            "created": 1560045327948,
+                                            "text": "礼贤下士，集思广益，决策有理有据，公开透明，受人尊重"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
                                     "id": "buohale10yo0",
                                     "created": 1560009723497,
-                                    "text": "建设产品管理团队"
+                                    "text": "建设产品管理团队",
+                                    "expandState": "expand"
                                 },
                                 "children": [
                                     {
                                         "data": {
                                             "id": "buohhrib9mg0",
                                             "created": 1560010285366,
-                                            "text": "培养一个新的产品经理。需要三个月"
+                                            "text": "培养一个新的产品经理。需要三个月",
+                                            "expandState": "expand"
                                         },
                                         "children": [
                                             {
@@ -1287,6 +1355,23 @@
                                             "text": "事必躬亲，是替他们承担责任"
                                         },
                                         "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buou6rmzmdc0",
+                                            "created": 1560046098072,
+                                            "text": "产品管理部门与开发部门市场部门级别相同"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "buou7n35bo80",
+                                                    "created": 1560046166529,
+                                                    "text": "产品既不是有技术驱动，也不仅仅由销售和市场需求决定"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -1294,7 +1379,246 @@
                                 "data": {
                                     "id": "buohfwjz4qo0",
                                     "created": 1560010139622,
-                                    "text": "规划公司产品战略"
+                                    "text": "规划公司产品战略",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buotttuxyao0",
+                                            "created": 1560045084172,
+                                            "text": "透彻理解公司最新的商业战略"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buotu56xlkg0",
+                                            "created": 1560045108842,
+                                            "text": "确保产品战略直接支持商业战略"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buotughdon40",
+                                            "created": 1560045133418,
+                                            "text": "与产品经理一旦完成产品规划"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buotult7rmg0",
+                                            "created": 1560045145018,
+                                            "text": "共同实现规划"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buotuq4j7iw0",
+                                            "created": 1560045154409,
+                                            "text": "带领产品团队建立原则"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buotuy0hpd40",
+                                            "created": 1560045171579,
+                                            "text": "坚持按产品原则研发产品"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "buou06tkxsg0",
+                                    "created": 1560045582573,
+                                    "text": "评估产品经理的工作"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buou0n1bmwo0",
+                                            "created": 1560045617870,
+                                            "text": "用户净推荐值（Net promoter score，NPS）"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "buou21wvf1s0",
+                                                    "created": 1560045728616,
+                                                    "text": "反应了产品的用户体验水平"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buou2bjer8w0",
+                                                    "created": 1560045749570,
+                                                    "text": "口碑营销是最有效，成本最低的营销方式"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "buou987ve400",
+                            "created": 1560046290891,
+                            "text": "巴顿将军的忠告"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "buou9cw7kbk0",
+                                    "created": 1560046301070,
+                                    "text": "永远不要告诉别人怎么做，告诉他们做什么，他们自然会发挥天赋，给你惊喜。"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buouadb1ix40",
+                                    "created": 1560046380331,
+                                    "text": "给予用户体验设计师和开发人员足够的创作空间"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "buoub0gi7iw0",
+                            "created": 1560046430727,
+                            "text": "产品副经理"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "buoubhgyb0w0",
+                                    "created": 1560046467760,
+                                    "text": "聪明绝顶"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buoub3mvau80",
+                                    "created": 1560046437644,
+                                    "text": "深入同事"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buouba9zazk0",
+                                    "created": 1560046452101,
+                                    "text": "开放的态度"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buouc9iqzsg0",
+                                    "created": 1560046528818,
+                                    "text": "动用所有的人所有的力量，打造卓越的产品"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "buouctbspkw0",
+                            "created": 1560046571934,
+                            "text": "管理上司"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "buoucxhnom80",
+                                    "created": 1560046580995,
+                                    "text": "为项目活动做好准备"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buoud2vi9go0",
+                                    "created": 1560046592716,
+                                    "text": "注意沟通的方式与频率"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buoud6zye6o0",
+                                    "created": 1560046601693,
+                                    "text": "会前沟通"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buouda61vz40",
+                                    "created": 1560046608592,
+                                    "text": "多提建议，少谈问题"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buoude7qojs0",
+                                    "created": 1560046617401,
+                                    "text": "向上司借力"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buoudh3phk00",
+                                    "created": 1560046623687,
+                                    "text": "充分准备"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buoudk4i5540",
+                                    "created": 1560046630266,
+                                    "text": "缩短篇幅"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buoudxpsnls0",
+                                    "created": 1560046659851,
+                                    "text": "用数据和事实说话"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buoue1oy49s0",
+                                    "created": 1560046668507,
+                                    "text": "内部宣传产品"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buoue5enz9k0",
+                                    "created": 1560046676593,
+                                    "text": "做让领导省心的员工"
                                 },
                                 "children": []
                             }
