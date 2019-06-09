@@ -22,7 +22,7 @@
                             "id": "buo6kodtbuo0",
                             "created": 1559979481447,
                             "text": "产品的特性",
-                            "expandState": "collapse"
+                            "expandState": "expand"
                         },
                         "children": [
                             {
@@ -2101,7 +2101,63 @@
                                         "data": {
                                             "id": "buouwmplzds0",
                                             "created": 1560048124815,
-                                            "text": "尺寸"
+                                            "text": "产品能在竞争中取胜嘛，即使面对未来风云变化的市场，依旧有取胜的把握吗？"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bupae1aon880",
+                                            "created": 1560091805403,
+                                            "text": "我了解目标客户吗？产品是否能得到他们的认可？"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bupae627w680",
+                                            "created": 1560091815775,
+                                            "text": "产品是否有别于市面上的其他产品，我能在两分钟内向公司高管清楚的阐明这些差别么？能在一分钟内将客户清楚解释吗？能在半分钟内向经验丰富的行业分析师解释清楚吗？"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bupaehrdols0",
+                                            "created": 1560091841241,
+                                            "text": "产品能正常运行吗？"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bupaekr4mc80",
+                                            "created": 1560091847756,
+                                            "text": "产品是否完整？用户对产品的印象如何？销售业绩如何？销售任务能否顺利完成？"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bupaetlioq80",
+                                            "created": 1560091867008,
+                                            "text": "产品的特色是否以目标用户的需求一致，产品特色是否鲜明？"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bupaez7mrc80",
+                                            "created": 1560091879229,
+                                            "text": "产品值钱吗？值多少钱？为什么值这么多钱？用户会选择更便宜的产品吗？ "
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bupaf4egryw0",
+                                            "created": 1560091890526,
+                                            "text": "我了解其他团队成员对产品的看法嘛，他们觉得产品好在哪里，他们的看法是否与我的观点一致。"
                                         },
                                         "children": []
                                     }
@@ -2116,4 +2172,4 @@
     "template": "right",
     "theme": "classic-compact",
     "version": "1.4.43"
-}
+}Î
