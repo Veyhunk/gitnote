@@ -30,7 +30,7 @@
                                     "id": "buo6mgqfpu80",
                                     "created": 1559979621524,
                                     "text": "有价值",
-                                    "expandState": "expand"
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -85,7 +85,7 @@
                                     "id": "buo6or8f5ts0",
                                     "created": 1559979801108,
                                     "text": "具有经验产品的性质",
-                                    "expandState": "expand"
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -122,7 +122,7 @@
                                     "id": "buo8x1kal3s0",
                                     "created": 1559986092727,
                                     "text": "好的产品",
-                                    "expandState": "expand"
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -178,7 +178,7 @@
                                     "id": "buo75lj81hk0",
                                     "created": 1559981120891,
                                     "text": "核心标准",
-                                    "expandState": "expand"
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -217,7 +217,7 @@
                                     "id": "buofjjnff9s0",
                                     "created": 1560004782770,
                                     "text": "代码需要重构",
-                                    "expandState": "expand"
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -332,7 +332,7 @@
                                     "id": "buo6qwrkeu80",
                                     "created": 1559979969878,
                                     "text": "产品经理",
-                                    "expandState": "expand"
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -349,7 +349,7 @@
                                             "id": "buo6uy228rk0",
                                             "created": 1559980286146,
                                             "text": "职责",
-                                            "expandState": "expand"
+                                            "expandState": "collapse"
                                         },
                                         "children": [
                                             {
@@ -357,7 +357,7 @@
                                                     "id": "buo7rvdhs3c0",
                                                     "created": 1559982866324,
                                                     "text": "评估产品机会",
-                                                    "expandState": "expand"
+                                                    "expandState": "collapse"
                                                 },
                                                 "children": [
                                                     {
@@ -395,7 +395,7 @@
                                                     "id": "buo7rz3t7y80",
                                                     "created": 1559982874446,
                                                     "text": "定义要开发的产品",
-                                                    "expandState": "expand"
+                                                    "expandState": "collapse"
                                                 },
                                                 "children": [
                                                     {
@@ -461,7 +461,7 @@
                                             "id": "buo9e5llknc0",
                                             "created": 1559987433704,
                                             "text": "工作",
-                                            "expandState": "expand"
+                                            "expandState": "collapse"
                                         },
                                         "children": [
                                             {
@@ -528,7 +528,7 @@
                                     "id": "buo7yk5s9iw0",
                                     "created": 1559983390463,
                                     "text": "用户体验设计师",
-                                    "expandState": "expand"
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -536,7 +536,7 @@
                                             "id": "buo83glqs3s0",
                                             "created": 1559983774541,
                                             "text": "简介",
-                                            "expandState": "expand"
+                                            "expandState": "collapse"
                                         },
                                         "children": [
                                             {
@@ -564,7 +564,7 @@
                                             "id": "buo6uy228rk0",
                                             "created": 1559980286146,
                                             "text": "职责",
-                                            "expandState": "expand"
+                                            "expandState": "collapse"
                                         },
                                         "children": [
                                             {
@@ -601,7 +601,7 @@
                                             "id": "buo84r8sgdk0",
                                             "created": 1559983876067,
                                             "text": "目标",
-                                            "expandState": "expand"
+                                            "expandState": "collapse"
                                         },
                                         "children": [
                                             {
@@ -623,7 +623,7 @@
                                     "id": "buo7ypwimhk0",
                                     "created": 1559983402963,
                                     "text": "项目管理人员",
-                                    "expandState": "expand"
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -631,7 +631,7 @@
                                             "id": "buo85yx041s0",
                                             "created": 1559983971133,
                                             "text": "职责",
-                                            "expandState": "expand"
+                                            "expandState": "collapse"
                                         },
                                         "children": [
                                             {
@@ -668,7 +668,7 @@
                                             "id": "buo8c60mii00",
                                             "created": 1559984456774,
                                             "text": "项目经理",
-                                            "expandState": "expand"
+                                            "expandState": "collapse"
                                         },
                                         "children": [
                                             {
@@ -698,7 +698,7 @@
                                     "id": "buo7yvh6um00",
                                     "created": 1559983415097,
                                     "text": "开发团队",
-                                    "expandState": "expand"
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -706,7 +706,7 @@
                                             "id": "buo85yx041s0",
                                             "created": 1559983971133,
                                             "text": "职责",
-                                            "expandState": "expand"
+                                            "expandState": "collapse"
                                         },
                                         "children": [
                                             {
@@ -727,7 +727,7 @@
                                     "id": "buo7yz1prq80",
                                     "created": 1559983422868,
                                     "text": "运维团队",
-                                    "expandState": "expand"
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -735,7 +735,7 @@
                                             "id": "buo85yx041s0",
                                             "created": 1559983971133,
                                             "text": "职责",
-                                            "expandState": "expand"
+                                            "expandState": "collapse"
                                         },
                                         "children": [
                                             {
@@ -756,7 +756,7 @@
                                     "id": "buo7z213ayg0",
                                     "created": 1559983429361,
                                     "text": "产品营销人员",
-                                    "expandState": "expand"
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -764,7 +764,7 @@
                                             "id": "buo85yx041s0",
                                             "created": 1559983971133,
                                             "text": "职责",
-                                            "expandState": "expand"
+                                            "expandState": "collapse"
                                         },
                                         "children": [
                                             {
@@ -795,7 +795,7 @@
                                     "id": "buo8uieb5f40",
                                     "created": 1559985894278,
                                     "text": "产品经理与产品营销",
-                                    "expandState": "expand"
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -824,7 +824,7 @@
                                     "created": 1559984676249,
                                     "text": "产品经理与项目经理",
                                     "note": null,
-                                    "expandState": "expand"
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -923,7 +923,7 @@
                                     "id": "buo9igd6mfc0",
                                     "created": 1559987770596,
                                     "text": "产品经理与产品设计",
-                                    "expandState": "expand"
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -969,7 +969,7 @@
                                     "id": "buo9o3md0cg0",
                                     "created": 1559988213038,
                                     "text": "产品经理与开发团队",
-                                    "expandState": "expand"
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -977,7 +977,7 @@
                                             "id": "buo9o9f2amw0",
                                             "created": 1559988225657,
                                             "text": "承认彼此平等",
-                                            "expandState": "expand"
+                                            "expandState": "collapse"
                                         },
                                         "children": [
                                             {
@@ -1014,7 +1014,7 @@
                                             "id": "buo9qdpdsj40",
                                             "created": 1559988391717,
                                             "text": "开发人员协助完善产品定义",
-                                            "expandState": "expand"
+                                            "expandState": "collapse"
                                         },
                                         "children": [
                                             {
@@ -1051,7 +1051,7 @@
                                             "id": "buodx0fju4g0",
                                             "created": 1560000195813,
                                             "text": "产品经理配合开发团队",
-                                            "expandState": "expand"
+                                            "expandState": "collapse"
                                         },
                                         "children": [
                                             {
@@ -1100,7 +1100,7 @@
                                     "id": "buog6ghb11s0",
                                     "created": 1560006578245,
                                     "text": "特质",
-                                    "expandState": "expand"
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -1245,7 +1245,7 @@
                                     "id": "buoh7jn7bmo0",
                                     "created": 1560009484606,
                                     "text": "最宝贵的经验",
-                                    "expandState": "expand"
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -1328,7 +1328,7 @@
                                     "id": "buotrwdf2rk0",
                                     "created": 1560044932915,
                                     "text": "（产品总监）",
-                                    "expandState": "expand"
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -1401,7 +1401,7 @@
                                     "id": "buohale10yo0",
                                     "created": 1560009723497,
                                     "text": "建设产品管理团队",
-                                    "expandState": "expand"
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -1409,7 +1409,7 @@
                                             "id": "buohhrib9mg0",
                                             "created": 1560010285366,
                                             "text": "培养一个新的产品经理。需要三个月",
-                                            "expandState": "expand"
+                                            "expandState": "collapse"
                                         },
                                         "children": [
                                             {
@@ -1491,7 +1491,7 @@
                                             "id": "buou6rmzmdc0",
                                             "created": 1560046098072,
                                             "text": "产品管理部门与开发部门市场部门级别相同",
-                                            "expandState": "expand"
+                                            "expandState": "collapse"
                                         },
                                         "children": [
                                             {
@@ -1512,7 +1512,7 @@
                                     "id": "buohfwjz4qo0",
                                     "created": 1560010139622,
                                     "text": "规划公司产品战略",
-                                    "expandState": "expand"
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -1576,7 +1576,7 @@
                                     "id": "buou06tkxsg0",
                                     "created": 1560045582573,
                                     "text": "评估产品经理的工作",
-                                    "expandState": "expand"
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -1584,7 +1584,7 @@
                                             "id": "buou0n1bmwo0",
                                             "created": 1560045617870,
                                             "text": "用户净推荐值（Net promoter score，NPS）",
-                                            "expandState": "expand"
+                                            "expandState": "collapse"
                                         },
                                         "children": [
                                             {
@@ -1801,14 +1801,15 @@
                             "id": "buo6vfjv2k00",
                             "created": 1559980324228,
                             "text": "评估产品机会",
-                            "expandState": "expand"
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
                                 "data": {
                                     "id": "bupautd90kg0",
                                     "created": 1560093120335,
-                                    "text": "产品要解决什么问题？产品价值"
+                                    "text": "产品要解决什么问题？产品价值",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -1816,7 +1817,8 @@
                                 "data": {
                                     "id": "bupauzqxw6g0",
                                     "created": 1560093134223,
-                                    "text": "谁能解决这个问题？目标市场"
+                                    "text": "谁能解决这个问题？目标市场",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -1824,14 +1826,16 @@
                                 "data": {
                                     "id": "bupav7af4bk0",
                                     "created": 1560093150639,
-                                    "text": "成功的机会有多大？市场规模"
+                                    "text": "成功的机会有多大？市场规模",
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
                                         "data": {
                                             "id": "bupaydb6lug0",
                                             "created": 1560093398838,
-                                            "text": "求助于行业分析师，贸易协会，公司财务，结合自己的分析做出判断，评估务必谨慎，避免浮夸。"
+                                            "text": "求助于行业分析师，贸易协会，公司财务，结合自己的分析做出判断，评估务必谨慎，避免浮夸。",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     }
@@ -1841,7 +1845,8 @@
                                 "data": {
                                     "id": "bupavbzd73k0",
                                     "created": 1560093160854,
-                                    "text": "怎么判断产品成功与否？度量指标或收益指标"
+                                    "text": "怎么判断产品成功与否？度量指标或收益指标",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -1849,7 +1854,8 @@
                                 "data": {
                                     "id": "bupavirx5a80",
                                     "created": 1560093175642,
-                                    "text": "有哪些同类产品？竞争格局"
+                                    "text": "有哪些同类产品？竞争格局",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -1857,7 +1863,8 @@
                                 "data": {
                                     "id": "bupavn6ej6o0",
                                     "created": 1560093185224,
-                                    "text": "为什么我们最适合做这个产品？竞争优势"
+                                    "text": "为什么我们最适合做这个产品？竞争优势",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -1865,7 +1872,8 @@
                                 "data": {
                                     "id": "bupavseui2g0",
                                     "created": 1560093196619,
-                                    "text": "时机合适吗？市场时机"
+                                    "text": "时机合适吗？市场时机",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -1873,7 +1881,8 @@
                                 "data": {
                                     "id": "bupavxfukaw0",
                                     "created": 1560093207563,
-                                    "text": "如何把产品推向市场？营销组合策略"
+                                    "text": "如何把产品推向市场？营销组合策略",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -1881,14 +1890,16 @@
                                 "data": {
                                     "id": "bupaw18kokw0",
                                     "created": 1560093215831,
-                                    "text": "成功的必要条件是什么？解决方案要满足的条件"
+                                    "text": "成功的必要条件是什么？解决方案要满足的条件",
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
                                         "data": {
                                             "id": "bupaz888s740",
                                             "created": 1560093466141,
-                                            "text": "依赖因素和约束条件。"
+                                            "text": "依赖因素和约束条件。",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     }
@@ -1898,7 +1909,8 @@
                                 "data": {
                                     "id": "bupaw7a8phk0",
                                     "created": 1560093228992,
-                                    "text": "根据以上问题给出评论结果。继续或放弃"
+                                    "text": "根据以上问题给出评论结果。继续或放弃",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             }
@@ -1909,9 +1921,55 @@
                             "id": "buoukso87480",
                             "created": 1560047197422,
                             "text": "产品探索",
-                            "expandState": "expand"
+                            "expandState": "collapse"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "buq698jq8aw0",
+                                    "created": 1560181704884,
+                                    "text": "定义正确的产品",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buq69qgswow0",
+                                    "created": 1560181743889,
+                                    "text": "探索出兼具功能性与设计性的产品",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buq6dhnm0y00",
+                                    "created": 1560182038166,
+                                    "text": "探索产品的过程不可预测",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buq6btmjs7s0",
+                                    "created": 1560181907495,
+                                    "text": "保证足够的时间和精力去探索产品",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "buq6c2i825c0",
+                                    "created": 1560181926825,
+                                    "text": "寻找市场，让用户验证你的构思",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            }
+                        ]
                     },
                     {
                         "data": {
@@ -1920,7 +1978,299 @@
                             "text": "产品原则",
                             "expandState": "expand"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "buq6sjauamo0",
+                                    "created": 1560183217210,
+                                    "text": "定义",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buq6rlyqir40",
+                                            "created": 1560183144644,
+                                            "text": "对团队信仰和价值观的总结"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buq6s25j2kw0",
+                                            "created": 1560183179884,
+                                            "text": "指导产品团队作出正确的决策和取舍"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buq6s77twbs0",
+                                            "created": 1560183190907,
+                                            "text": "体现了产品团队的目标和愿景"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buq6s8xnkkw0",
+                                            "created": 1560183194645,
+                                            "text": "产品战略的重要组成部分"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "buq6sp4nfqo0",
+                                    "created": 1560183229897,
+                                    "text": "制定产品原则",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buq6v1cj7cw0",
+                                            "created": 1560183413223,
+                                            "text": "基于公司的企业文化和企业目标"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buq6xg1ptnk0",
+                                            "created": 1560183601949,
+                                            "text": "类型",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "buq6sxnjojs0",
+                                                    "created": 1560183248453,
+                                                    "text": "重要的"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buq6t69gqg00",
+                                                    "created": 1560183267193,
+                                                    "text": "不重要的"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buq6t8ka8j40",
+                                                    "created": 1560183272201,
+                                                    "text": "根本的"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buq6tbc8mko0",
+                                                    "created": 1560183278245,
+                                                    "text": "战略性的"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buq6tedkjns0",
+                                                    "created": 1560183284855,
+                                                    "text": "临时的"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buq6thm18ag0",
+                                                    "created": 1560183291898,
+                                                    "text": "战术的"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buq70m4lkc80",
+                                            "created": 1560183850276,
+                                            "text": "目标",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "buq70w59vuo0",
+                                                    "created": 1560183872085,
+                                                    "text": "易用性"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buq7121o4rc0",
+                                                    "created": 1560183884928,
+                                                    "text": "响应速度"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buq714nnvvk0",
+                                                    "created": 1560183890611,
+                                                    "text": "功能"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buq717nzy5c0",
+                                                    "created": 1560183897162,
+                                                    "text": "成本"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buq719osbz40",
+                                                    "created": 1560183901563,
+                                                    "text": "安全性"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buq71cclsg80",
+                                                    "created": 1560183907357,
+                                                    "text": "用户隐私"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buq71kot9kw0",
+                                                    "created": 1560183925510,
+                                                    "text": "界面设计"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buq6y00hn9s0",
+                                                    "created": 1560183645410,
+                                                    "text": "为每一条原则确定优先级"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buq6zle58i80",
+                                            "created": 1560183770313,
+                                            "text": "要点"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "buq6zo6wr7k0",
+                                                    "created": 1560183776405,
+                                                    "text": "解决什么问题？"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buq6zrgvp8g0",
+                                                    "created": 1560183783539,
+                                                    "text": "为谁解决问题？"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buq6zu8bgx40",
+                                                    "created": 1560183789551,
+                                                    "text": "达到什么目标？"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "buq6zwy5lr40",
+                                                    "created": 1560183795467,
+                                                    "text": "每项目标的优先级"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "buq6uaq5xfc0",
+                                    "created": 1560183355274,
+                                    "text": "作用",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "buq6tuheyt40",
+                                            "created": 1560183319916,
+                                            "text": "产品线的战略指南"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buq6tyhpk6o0",
+                                            "created": 1560183328641,
+                                            "text": "公司的价值宣言"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buq6vlnfvpc0",
+                                            "created": 1560183457418,
+                                            "text": "激发设计产品的灵感"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buq6wd10fso0",
+                                            "created": 1560183517012,
+                                            "text": "价值判断框架"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buq6wg14fw00",
+                                            "created": 1560183523549,
+                                            "text": "帮助公司做出正确的决策"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "buq6wrik1l40",
+                                            "created": 1560183548548,
+                                            "text": "团结产品团队。形成共同的价值观，在认识上保持一致。"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
                     },
                     {
                         "data": {
@@ -2190,7 +2540,7 @@
                                     "id": "buoutctj0zc0",
                                     "created": 1560047868191,
                                     "text": "十大要点",
-                                    "expandState": "expand"
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -2300,7 +2650,7 @@
                                     "id": "buouuqvvs7k0",
                                     "created": 1560047977173,
                                     "text": "十大问题",
-                                    "expandState": "expand"
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
