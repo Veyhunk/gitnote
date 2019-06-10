@@ -1793,7 +1793,7 @@
                     "created": 1559978446586,
                     "text": "第二部分：流程",
                     "note": "探索、开发富有创意的产品时，反复应用的步骤和成功的实践经验。",
-                    "expandState": "collapse"
+                    "expandState": "expand"
                 },
                 "children": [
                     {
@@ -1803,7 +1803,106 @@
                             "text": "评估产品机会",
                             "expandState": "expand"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "bupautd90kg0",
+                                    "created": 1560093120335,
+                                    "text": "产品要解决什么问题？产品价值"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bupauzqxw6g0",
+                                    "created": 1560093134223,
+                                    "text": "谁能解决这个问题？目标市场"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bupav7af4bk0",
+                                    "created": 1560093150639,
+                                    "text": "成功的机会有多大？市场规模"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "bupaydb6lug0",
+                                            "created": 1560093398838,
+                                            "text": "求助于行业分析师，贸易协会，公司财务，结合自己的分析做出判断，评估务必谨慎，避免浮夸。"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "bupavbzd73k0",
+                                    "created": 1560093160854,
+                                    "text": "怎么判断产品成功与否？度量指标或收益指标"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bupavirx5a80",
+                                    "created": 1560093175642,
+                                    "text": "有哪些同类产品？竞争格局"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bupavn6ej6o0",
+                                    "created": 1560093185224,
+                                    "text": "为什么我们最适合做这个产品？竞争优势"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bupavseui2g0",
+                                    "created": 1560093196619,
+                                    "text": "时机合适吗？市场时机"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bupavxfukaw0",
+                                    "created": 1560093207563,
+                                    "text": "如何把产品推向市场？营销组合策略"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bupaw18kokw0",
+                                    "created": 1560093215831,
+                                    "text": "成功的必要条件是什么？解决方案要满足的条件"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "bupaz888s740",
+                                            "created": 1560093466141,
+                                            "text": "依赖因素和约束条件。"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "bupaw7a8phk0",
+                                    "created": 1560093228992,
+                                    "text": "根据以上问题给出评论结果。继续或放弃"
+                                },
+                                "children": []
+                            }
+                        ]
                     },
                     {
                         "data": {
