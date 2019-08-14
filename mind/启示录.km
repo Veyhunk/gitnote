@@ -336,8 +336,8 @@
                         "data": {
                             "id": "buofjdqeq9k0",
                             "created": 1560004769889,
-                            "text": "知识库",
-                            "expandState": "collapse"
+                            "text": "代码",
+                            "expandState": "expand"
                         },
                         "children": [
                             {
@@ -385,22 +385,23 @@
                                         "children": []
                                     }
                                 ]
-                            },
-                            {
-                                "data": {
-                                    "id": "buog5ecgsfk0",
-                                    "created": 1560006495234,
-                                    "text": "项目的外包与远程开发",
-                                    "expandState": "expand"
-                                },
-                                "children": []
-                            },
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "bw8ylmxxv6o0",
+                            "created": 1565745905326,
+                            "text": "产品",
+                            "expandState": "expand"
+                        },
+                        "children": [
                             {
                                 "data": {
                                     "id": "buog5k27boo0",
                                     "created": 1560006507675,
                                     "text": "估算产品成本",
-                                    "expandState": "collapse"
+                                    "expandState": "expand"
                                 },
                                 "children": [
                                     {
@@ -418,6 +419,40 @@
                                             "created": 1560185313222,
                                             "text": "定义解决方案。生成详细可靠的成本估算结果",
                                             "expandState": "expand"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "buog5ecgsfk0",
+                                    "created": 1560006495234,
+                                    "text": "项目的外包与远程开发",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bw8ylyc61vs0",
+                                    "created": 1565745930130,
+                                    "text": "创新结束了吗？"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "bw8ym26n4400",
+                                            "created": 1565745938503,
+                                            "text": "只要市场上还有蹩脚的产品, 就有机会。"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8ym7ov2e00",
+                                            "created": 1565745950489,
+                                            "text": "机会永远不会消失殆尽。"
                                         },
                                         "children": []
                                     }
@@ -4857,6 +4892,14 @@
                                         "children": []
                                     }
                                 ]
+                            },
+                            {
+                                "data": {
+                                    "id": "bw8ykmif8940",
+                                    "created": 1565745826023,
+                                    "text": "产品的竞争对手。不是创业型公司或者大型门户网站。而是芸芸众生的线下生活方式。"
+                                },
+                                "children": []
                             }
                         ]
                     },
@@ -4867,7 +4910,219 @@
                             "text": "情感接纳曲线",
                             "expandState": "expand"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "bw8ymol27og0",
+                                    "created": 1565745987265,
+                                    "text": "技术创新者。尝鲜者。早期消费大众。后期消费大众。跟随者。"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bw8ymydmvcg0",
+                                    "created": 1565746008583,
+                                    "text": "关注用户的不满情绪。这是未来的发展方向。"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bw8yn8wvd7s0",
+                                    "created": 1565746031514,
+                                    "text": "除了从技术角度，更要多从用户的角度考虑问题。"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bw8ynn0sj940",
+                                    "created": 1565746062226,
+                                    "text": "消费者的情感特征"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "bw8ynyd9rmw0",
+                                            "created": 1565746086925,
+                                            "text": "技术爱好者"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "bw8yoo4hypc0",
+                                                    "created": 1565746142991,
+                                                    "text": "新的技术"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8yo0mklv40",
+                                            "created": 1565746091841,
+                                            "text": "非理性消费者"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "bw8yot59iiw0",
+                                                    "created": 1565746153922,
+                                                    "text": "放大的情绪"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8yq4hdlmg0",
+                                            "created": 1565746256963,
+                                            "text": "普通大众"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "bw8yqd2w2600",
+                                                    "created": 1565746275678,
+                                                    "text": "普通大众情感需求。逐步加入消费队伍"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8yq8bhna00",
+                                            "created": 1565746265314,
+                                            "text": "理性消费者"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "bw8yqncor140",
+                                                    "created": 1565746298038,
+                                                    "text": "性价比。务实。"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8yo3jhq1s0",
+                                            "created": 1565746098187,
+                                            "text": "超理性消费者"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "bw8ypzhep5s0",
+                                                    "created": 1565746246081,
+                                                    "text": "较弱的情感需求。追求完美。"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8yo6b0jzc0",
+                                            "created": 1565746104203,
+                                            "text": "观望者"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "bw8yrcgo9m00",
+                                                    "created": 1565746352699,
+                                                    "text": "大众跟随者。"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "bw8yoehfvww0",
+                                    "created": 1565746122006,
+                                    "text": "非理性消费者"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "bw8ysfici5c0",
+                                            "created": 1565746437694,
+                                            "text": "容易夸大产品的价值"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8ystr60m80",
+                                            "created": 1565746468703,
+                                            "text": "内心弥漫着强烈的不满情绪"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8yszm0r7k0",
+                                            "created": 1565746481452,
+                                            "text": "帮助产品经理发现产品的内在价值"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "bw8yu3t8qy00",
+                                    "created": 1565746568960,
+                                    "text": "马斯洛金字塔模型"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bw8yurhl57c0",
+                                    "created": 1565746620498,
+                                    "text": "新生测试"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "bw8yvfn6hog0",
+                                            "created": 1565746673079,
+                                            "text": "最敏感，最容易感受到细微的变化。"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8yuuq8w740",
+                                            "created": 1565746627552,
+                                            "text": "带着新生的感觉发掘每天折磨大众的情感",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "bw8yvbff20w0",
+                                                    "created": 1565746663903,
+                                                    "text": "孤独，恐惧，挫折，不满。"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
                     },
                     {
                         "data": {
@@ -4876,7 +5131,48 @@
                             "text": "可用性与美感",
                             "expandState": "expand"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "bw8ywa8zehc0",
+                                    "created": 1565746739701,
+                                    "text": "交互设计和视觉设计完全是两回事"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bw8ywgcwj7c0",
+                                    "created": 1565746752999,
+                                    "text": "设计既美观又实用的产品"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bw8ywkopjds0",
+                                    "created": 1565746762420,
+                                    "text": "视觉设计可以满足用户的情感需求"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bw8ywp0jovk0",
+                                    "created": 1565746771843,
+                                    "text": "产品的可用性会影响用户体验"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bw8yx264oqo0",
+                                    "created": 1565746800478,
+                                    "text": "良好的用户体验是交互设计师和视觉设计师配合的结果，他们共同配合产品经理定义产品。"
+                                },
+                                "children": []
+                            }
+                        ]
                     },
                     {
                         "data": {
