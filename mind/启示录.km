@@ -337,7 +337,7 @@
                             "id": "buofjdqeq9k0",
                             "created": 1560004769889,
                             "text": "代码",
-                            "expandState": "expand"
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -393,7 +393,7 @@
                             "id": "bw8ylmxxv6o0",
                             "created": 1565745905326,
                             "text": "产品",
-                            "expandState": "expand"
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -401,7 +401,7 @@
                                     "id": "buog5k27boo0",
                                     "created": 1560006507675,
                                     "text": "估算产品成本",
-                                    "expandState": "expand"
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -437,7 +437,8 @@
                                 "data": {
                                     "id": "bw8ylyc61vs0",
                                     "created": 1565745930130,
-                                    "text": "创新结束了吗？"
+                                    "text": "创新结束了吗？",
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -4650,7 +4651,7 @@
                             "id": "buour58c27c0",
                             "created": 1560047694944,
                             "text": "苹果公司给我的启示",
-                            "expandState": "expand"
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -4692,7 +4693,7 @@
                             "id": "buourc7crlc0",
                             "created": 1560047710122,
                             "text": "提防有特殊要求的产品",
-                            "expandState": "expand"
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -4707,7 +4708,8 @@
                                 "data": {
                                     "id": "bw8y5twl4ag0",
                                     "created": 1565744666655,
-                                    "text": "产品需求不能用户说了算"
+                                    "text": "产品需求不能用户说了算",
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -4775,7 +4777,7 @@
                             "id": "buouroo0k600",
                             "created": 1560047737251,
                             "text": "新瓶装老酒",
-                            "expandState": "expand"
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -4817,7 +4819,7 @@
                             "id": "buourrdwbv40",
                             "created": 1560047743170,
                             "text": "恐惧，贪婪，欲望",
-                            "expandState": "expand"
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -4848,7 +4850,8 @@
                                 "data": {
                                     "id": "bw8ydcodni00",
                                     "created": 1565745256066,
-                                    "text": "从情感的角度"
+                                    "text": "从情感的角度",
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -4908,7 +4911,7 @@
                             "id": "buourujorug0",
                             "created": 1560047750050,
                             "text": "情感接纳曲线",
-                            "expandState": "expand"
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -4939,7 +4942,8 @@
                                 "data": {
                                     "id": "bw8ynn0sj940",
                                     "created": 1565746062226,
-                                    "text": "消费者的情感特征"
+                                    "text": "消费者的情感特征",
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -5050,7 +5054,8 @@
                                 "data": {
                                     "id": "bw8yoehfvww0",
                                     "created": 1565746122006,
-                                    "text": "非理性消费者"
+                                    "text": "非理性消费者",
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -5091,7 +5096,8 @@
                                 "data": {
                                     "id": "bw8yurhl57c0",
                                     "created": 1565746620498,
-                                    "text": "新生测试"
+                                    "text": "新生测试",
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -5129,7 +5135,7 @@
                             "id": "buourxlmt3s0",
                             "created": 1560047756698,
                             "text": "可用性与美感",
-                            "expandState": "expand"
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -5179,9 +5185,206 @@
                             "id": "buous0cw5v40",
                             "created": 1560047762700,
                             "text": "大众网络服务产品",
-                            "expandState": "expand"
+                            "expandState": "collapse"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "bw8yyv5n2ls0",
+                                    "created": 1565746941940,
+                                    "text": "直接面对目标用户，不需要销售团队和分销商搭建桥梁。"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bw8yz6ytlnk0",
+                                    "created": 1565746967649,
+                                    "text": "直接与用户互动沟通，随时验证新产品的创意，实时观察用户的反应。"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bw8yyi7vh200",
+                                    "created": 1565746913776,
+                                    "text": "十大要点",
+                                    "expandState": "collapse"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "bw8yzmdrcrc0",
+                                            "created": 1565747001204,
+                                            "text": "可用性"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "bw8z0kgmunk0",
+                                                    "created": 1565747075388,
+                                                    "text": "良好的用户体验和产品性能"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8yzonatvc0",
+                                            "created": 1565747006134,
+                                            "text": "人物角色"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "bw8z0ss3lt40",
+                                                    "created": 1565747093496,
+                                                    "text": "抽象出有代表性的用户类型。进行产品测试。"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8yzqx2rwg0",
+                                            "created": 1565747011079,
+                                            "text": "拓展性"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "bw8z1820i6o0",
+                                                    "created": 1565747126747,
+                                                    "text": "不间断地考虑拓展新问题，永远留有余地。不要满负载运行。"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8yztjvokg0",
+                                            "created": 1565747016811,
+                                            "text": "持续可用性"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "bw8z1sjgbvk0",
+                                                    "created": 1565747171337,
+                                                    "text": "在系统设计初期考虑这个问题"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8yzwgr72g0",
+                                            "created": 1565747023153,
+                                            "text": "客户服务"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "bw8z2d1szl40",
+                                                    "created": 1565747215982,
+                                                    "text": "降低客服压力。尽量减少系统故障和缺陷"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8yzzmuqco0",
+                                            "created": 1565747030052,
+                                            "text": "保护用户隐私"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "bw8z2n5pc2o0",
+                                                    "created": 1565747237986,
+                                                    "text": "设置用户资料保护机制，不辜负用户信任"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8z03628mo0",
+                                            "created": 1565747037743,
+                                            "text": "口碑营销"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "bw8z31ehazc0",
+                                                    "created": 1565747268991,
+                                                    "text": "宣传产品的最佳方式"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8z06n5xvs0",
+                                            "created": 1565747045308,
+                                            "text": "全球化"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "bw8z35l4keg0",
+                                                    "created": 1565747278100,
+                                                    "text": "易于本地化的产品设计。可以迅速适应当地用户的需求"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8z092jyhc0",
+                                            "created": 1565747050592,
+                                            "text": "平滑部署"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "bw8z3cdjs680",
+                                                    "created": 1565747292880,
+                                                    "text": "减少不必要的更新。用户消化吸收新事物不是件容易的事"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8z0bqa7xs0",
+                                            "created": 1565747056380,
+                                            "text": "用户社区管理"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "bw8z3jviv7k0",
+                                                    "created": 1565747309204,
+                                                    "text": "多与用户接触。了解他们。希望如何改进产品？。重视用户。回馈用户。"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
                     },
                     {
                         "data": {
@@ -5190,7 +5393,114 @@
                             "text": "打造企业级产品经验",
                             "expandState": "expand"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "bw8z4tjncj40",
+                                    "created": 1565747408618,
+                                    "text": "销售对象是企业？"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bw8z50a6i7s0",
+                                    "created": 1565747423283,
+                                    "text": "软件类型包括企业基础软件和企业应用软件。"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bw8z57c3oco0",
+                                    "created": 1565747438637,
+                                    "text": "\b十大要点",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "bw8z5hbka1s0",
+                                            "created": 1565747460372,
+                                            "text": "可用性"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8z5nbqeug0",
+                                            "created": 1565747473443,
+                                            "text": "产品正常工作"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8z5sd44qg0",
+                                            "created": 1565747484410,
+                                            "text": "特例产品"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8z5urjgg00",
+                                            "created": 1565747489636,
+                                            "text": "特约用户"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8z5xzlipk0",
+                                            "created": 1565747496654,
+                                            "text": "销售渠道的需求"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8z60pt6ds0",
+                                            "created": 1565747502593,
+                                            "text": "客户和用户的需求"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8z63ji79s0",
+                                            "created": 1565747508741,
+                                            "text": "产品安装"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8z65u8fzs0",
+                                            "created": 1565747513744,
+                                            "text": "产品的配置,自定义,集成。"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8z6eg9vqg0",
+                                            "created": 1565747532491,
+                                            "text": "产品升级"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bw8z6gv3rhk0",
+                                            "created": 1565747537741,
+                                            "text": "销售策略"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
                     },
                     {
                         "data": {
