@@ -1,0 +1,115 @@
+{
+  "root": {
+    "data": {
+      "id": "c1u6pe06fm00",
+      "created": 1586182319496,
+      "text": "产品思维",
+      "expandState": "expand"
+    },
+    "children": [
+      {
+        "data": {
+          "id": "c1u6tlmxn7k0",
+          "created": 1586182649566,
+          "text": "思考方式",
+          "expandState": "expand"
+        },
+        "children": [
+          {
+            "data": {
+              "id": "c1u6rg80v5k0",
+              "created": 1586182481052,
+              "text": "往重点思考"
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "id": "c1u6rkefhls0",
+              "created": 1586182490147,
+              "text": "往本质思考"
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "id": "c1u6sdstksw0",
+              "created": 1586182554144,
+              "text": "往上层思考"
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "id": "c1u6sluf1s80",
+              "created": 1586182571655,
+              "text": "往不同思考"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "c1u6u13y88w0",
+          "created": 1586182683247,
+          "text": "思维工具"
+        },
+        "children": [
+          {
+            "data": {
+              "id": "c1u6u4699t40",
+              "created": 1586182689917,
+              "text": "工作坊"
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "c1u6ufjcx6g0",
+                  "created": 1586182714653,
+                  "text": "确定主题，制定工作坊大纲"
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "c1u6umqmhw80",
+                  "created": 1586182730330,
+                  "text": "根据主题进行背景泾信息分享"
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "c1u6utwy6o80",
+                  "created": 1586182745950,
+                  "text": "抛出问题，小组提案设计"
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "c1u6v31ijxs0",
+                  "created": 1586182765817,
+                  "text": "全体表达意见"
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "c1u6v16m9ls0",
+                  "created": 1586182761773,
+                  "text": "整理内容，得出结论"
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "template": "right",
+  "theme": "fresh-blue",
+  "version": "1.4.43"
+}
