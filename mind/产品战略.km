@@ -1,13 +1,1 @@
-{
-  "root": {
-    "data": {
-      "id": "c1u6pe06fm00",
-      "created": 1586182319496,
-      "text": "产品战略",
-      "expandState": "expand"
-    }
-  },
-  "template": "right",
-  "theme": "fresh-blue",
-  "version": "1.4.43"
-}
+{"root":{"data":{"id":"c1u6pe06fm00","created":1586182319496,"text":"产品战略","expandState":"expand"},"children":[{"data":{"id":"c1u6z1hh84w0","created":1586183075886,"text":"产品架构","expandState":"expand"},"children":[{"data":{"id":"c1u6z41fazk0","created":1586183081445,"text":"寻找产品定位"},"children":[{"data":{"id":"c1u6zoy27sg0","created":1586183126954,"text":"行业、市场、竞品、用户"},"children":[]},{"data":{"id":"c1u700yy79k0","created":1586183153129,"text":"关键方面"},"children":[{"data":{"id":"c1u705ehy1c0","created":1586183162777,"text":"细分：足够尖锐，切开一道口子"},"children":[]},{"data":{"id":"c1u70cso7p40","created":1586183178871,"text":"新兴：足够前瞻，未来改变现在"},"children":[]}]}]},{"data":{"id":"c1u6yylwveg0","created":1586183069623,"text":"切入点"},"children":[{"data":{"id":"c1u70x9rke80","created":1586183223440,"text":"细分市场"},"children":[]},{"data":{"id":"c1u71z4elcw0","created":1586183305834,"text":"发展方向"},"children":[]},{"data":{"id":"c1u720vzvj40","created":1586183309679,"text":"核心功能"},"children":[{"data":{"id":"c1u748lbnc00","created":1586183483176,"text":"突出，上手简单，使用户马上感受到产品的有点，认知清晰，感知强烈"},"children":[]},{"data":{"id":"c1u76nx0g7k0","created":1586183673263,"text":"与整体结构的连贯性"},"children":[]}]},{"data":{"id":"c1u7359fopk0","created":1586183397563,"text":"产品亮点"},"children":[{"data":{"id":"c1u738rgajk0","created":1586183405183,"text":"相关的行为路径"},"children":[]}]},{"data":{"id":"c1u7230hrvk0","created":1586183314305,"text":"信息架构"},"children":[]}]},{"data":{"id":"c1u7651vbnk0","created":1586183632198,"text":"产品架构逐步完善是需要一定的顺序和节奏的"},"children":[]}]}]},"template":"right","theme":"fresh-blue","version":"1.4.43"}
